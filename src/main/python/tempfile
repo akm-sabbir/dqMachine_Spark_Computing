@@ -1,0 +1,1000 @@
+   41  la
+   42  ls
+   43  vim newAddCheck.scala 
+   44  ls
+   45  cd scalaProject/src/main/
+   46  ls
+   47  cd scala/
+   48  ls
+   49  spark-shell
+   50  vim newfile.gz 
+   51  cd scalaProject/l
+   52  ls
+   53  cd scalaProject/
+   54  ls
+   55  cd src/
+   56  ls
+   57  cd cd main/
+   58  ls
+   59  cd main/
+   60  ls
+   61  cd scala/
+   62  ls
+   63  vim newAddCheck.scala 
+   64  vim hdfsDiscovery.scala 
+   65  vim newAddCheck.scala 
+   66  vim hdfsDiscovery.scala 
+   67  vim newAddCheck.scala 
+   68  vim hdfsDiscovery.scala 
+   69  vim newAddCheck.scala 
+   70  ls
+   71  cd scalaProject/
+   72  ls
+   73  cd src/
+   74  cs main
+   75  cd main/
+   76  ls
+   77  cd scala/
+   78  ls
+   79  vim newAddCheck.scala 
+   80  vim hdfsDiscovery.scala 
+   81  vim newAddCheck.scala 
+   82  vim hdfsDiscovery.scala 
+   83  vim newAddCheck.scala 
+   84  vim hdfsDiscovery.scala 
+   85  vim newAddCheck.scala 
+   86  vim hdfsDiscovery.scala 
+   87  vim newAddCheck.scala 
+   88  cd scalaProject/
+   89  cd src/
+   90  cd main/
+   91  ls
+   92  cd scala/
+   93  ls
+   94  spark-shell 
+   95  ls
+   96  cd scalaProject/
+   97  ls
+   98  cd src/
+   99  cd main/
+  100  cd scala/
+  101  ls
+  102  vim newAddCheck.scala 
+  103  cd ..
+  104  ls
+  105  cd git_repos/
+  106  ls
+  107  cd Dq_Machine1/
+  108  ls
+  109  cd Dq_Machine/
+  110  ls
+  111  vim pysparkBuild.sh 
+  112  ls
+  113  cd src/
+  114  ls
+  115  cd main/
+  116  ls
+  117  cdpyt
+  118  cd  python/
+  119  ls
+  120  vim main.py 
+  121  cd..
+  122  cd ..
+  123  d ..
+  124  cd ..
+  125  cd .
+  126  \cd ..
+  127  cd ..
+  128  ls
+  129  cd scalaProject/
+  130  ls
+  131  cd src/
+  132  ls
+  133  cd main/
+  134  ls
+  135  cd scala/
+  136  ls
+  137  vim hdfsDiscovery.scala 
+  138  ls
+  139  ls
+  140  cd scalaProject/
+  141  ls
+  142  cd src/
+  143  ls
+  144  cd main/
+  145  ls
+  146  cd scl
+  147  cd scala/
+  148  ls
+  149  vim newAddCheck.scala 
+  150  spark-shell
+  151  ls
+  152  ls
+  153  cd git_repos/
+  154  ls
+  155  cd ..
+  156  ls
+  157  cd git_repos/
+  158  ls
+  159  rm dq_machine.zip 
+  160  rm Dq-r _Machine
+  161  rm -r Dq_Machine
+  162  git clone abdul.sabbir@lpwrvu1:/code/dqMachine.git
+  163  ls
+  164  d dqMachine/
+  165  lscd dqMachine/
+  166  ls
+  167  cd dqMachine/
+  168  ls
+  169  cd src/
+  170  ls
+  171  cd main/
+  172  ls
+  173  cd python/main.py 
+  174  ls
+  175  cd pys
+  176  cd python/
+  177  ls
+  178  vim main.py 
+  179  cd ..
+  180  ls
+  181  cd ..
+  182  ls
+  183  cd ..
+  184  ls
+  185  cd ..
+  186  ls
+  187  cd dqMachine/
+  188  ls
+  189  cd //
+  190  ls
+  191  cd ..
+  192  cd code
+  193  ls
+  194  cd home/
+  195  ls
+  196  cd abdul.sabbir/
+  197  ls
+  198  cd git_repos/
+  199  ls
+  200  cd dqMachine/
+  201  ls
+  202  cd ..
+  203  git clone abdul.sabbir@lpwrvu1:/code/dqMachine.git
+  204  cd dqMachine/
+  205  ls
+  206  cd src/
+  207  ls
+  208  cd ..
+  209  ls
+  210  git pull origin master
+  211  ls
+  212  cd ..
+  213  ls
+  214  cd dqMachine/
+  215  ls
+  216  chmod 777 pysparkBuild.sh 
+  217  ./pysparkBuild.sh 
+  218  cd ..
+  219  ls
+  220  ./spark-submit --py-files dq_machine.zip dqMachine/src/main/python/main.py 
+  221  spark-submit --py-files dq_machine.zip dqMachine/src/main/python/main.py 
+  222  spark-submit --py-files dq_machine.zip main.py 
+  223  ls
+  224  cd dir/
+  225  ls
+  226  cd ..
+  227  ls
+  228  spark-submit --py-files dqMachine.zip dqMachine/src/main/python/main.py 
+  229  ls
+  230  cd dqMachine/
+  231  ls
+  232  cd src/
+  233  ls
+  234  cd main/
+  235  ls
+  236  cd python/
+  237  ls
+  238  vim main.py 
+  239  ls
+  240  cd scalaProject/
+  241  ls
+  242  cd src/
+  243  ls
+  244  cd ..
+  245  ls
+  246  cd ..
+  247  ls
+  248  cd git_repos/
+  249  ls
+  250  cd dqMachine/
+  251  ls
+  252  cd ..
+  253  spark-submit --py-files dq_machine.zip dqMachine/src/main/python/main.py 
+  254  ls
+  255  cd dqMachine/
+  256  ls
+  257  ./pysparkBuild.sh clean
+  258  ./pysparkBuild.sh
+  259  cd ..
+  260  ls
+  261  spark-submit --py-files dq_machine.zip dqMachine/src/main/python/main.py 
+  262  cd dqMachine/
+  263  ls
+  264  ./pysparkBuild.sh clean
+  265  vim pysparkBuild.sh 
+  266  ./pysparkBuild.sh clean
+  267  vim pysparkBuild.sh
+  268  ./pysparkBuild.sh python
+  269  vim pysparkBuild.sh 
+  270  ./pysparkBuild.sh python
+  271  cd ..
+  272  ls
+  273  cd ..
+  274  ls
+  275  cd pysparkProject
+  276  ls
+  277  vim pysparkProject.py 
+  278  cd ..
+  279  vim pyspark
+  280  vim pysparkProject.py 
+  281  cp pysparkProject.py cd git_repos/dqMachine/src/main/python/
+  282  cp pysparkProject.py git_repos/dqMachine/src/main/python/
+  283  cd git_repos/
+  284  cd dqMachine/
+  285  ls
+  286  ./pysparkBuild.sh clean
+  287  vim pysparkBuild.sh 
+  288  ./pysparkBuild.sh cleans
+  289  ./pysparkBuild.sh python
+  290  cd ..
+  291  ls
+  292  cd dqMachine/
+  293  ls
+  294  cd src/
+  295  ls
+  296  cd main/
+  297  ls
+  298  cd python/
+  299  ls
+  300  vim pysparkProject.py 
+  301  ls
+  302  cd ..
+  303  ls
+  304  ./pysparkBuild.sh cleans
+  305  ./pysparkBuild.sh python
+  306  cd ..
+  307  ls
+  308  spark-submit --py-files dq_machine.zip dqMachine/src/main/python/main.py 
+  309  spark-shell
+  310  ls
+  311  ls
+  312  cd git_repos/
+  313  ls
+  314  cd dqMachine/
+  315  ls
+  316  vim pysparkBuild.sh 
+  317  ls
+  318  ls
+  319  cd scalaProject/
+  320  ls
+  321  cd src/
+  322  ls
+  323  cd main/
+  324  ls
+  325  cd scala/
+  326  ls
+  327  vim contextClass.scala 
+  328  ls
+  329  cd git_repos/
+  330  ls
+  331  cd dqMachine/
+  332  ls
+  333  cd ..
+  334  spark-submit --py-files dq_machine.zip dqMachine/src/main/python/main.py 
+  335  ls
+  336  cd dqMachine/
+  337  ls
+  338  cd src/main/python/
+  339  ls
+  340  spark-submit --py-files dq_machine.zip dqMachine/src/main/python/main.py 
+  341  spark-submit --py-files dq_machine.zip /dqMachine/src/main/python/main.py 
+  342  spark-submit --py-files dq_machine.zip ./dqMachine/src/main/python/main.py 
+  343  cd ..
+  344  ls
+  345  spark-submit --py-files dq_machine.zip dqMachine/src/main/python/main.py 
+  346  history
+  347  spark-submit --class dqMachine/src/main/python/main.py --master local[8] --py-files dq_machine.zip 
+  348  spark-submit --class dqMachine/src/main/python/main.py --master local[8] --py-files dq_machine.zip 100
+  349  spark-submit --class dqMachine/src/main/python/main.py --master local[8] --py-files dq_machine.zip --verbose
+  350  spark-submit  dqMachine/src/main/python/main.py --master local[8] --py-files dq_machine.zip --verbose
+  351  cd dqMachine/
+  352  ls
+  353  cd src/
+  354  ls
+  355  cd main/
+  356  ls
+  357  cd python/
+  358  ls
+  359  vim main.py 
+  360  cd ..
+  361  ls
+  362  cd ..
+  363  ls
+  364  cd ..
+  365  ls
+  366  cd ..
+  367  ls
+  368  spark-submit  --master local[8] --py-files dq_machine.zip dqMachine/src/main/python/main.py --verbose
+  369  spark-submit  --master local[8]  dqMachine/src/main/python/main.py --verbose
+  370  spark-submit  --master local[8] --py-files dq_machine.zip dqMachine/src/main/python/main.py --verbose
+  371  vim /home/abdul.sabbir/git_repos/dqMachine/src/main/python/main.py 
+  372  cd dqM
+  373  LS
+  374  ls
+  375  cd dqMachine/
+  376  cd src/main/python/
+  377  vim main.py 
+  378  spark-submit  --master local[8] --py-files dq_machine.zip dqMachine/src/main/python/main.py --verbose
+  379  spark-submit   --py-files dq_machine.zip dqMachine/src/main/python/main.py --verbose
+  380  spark-submit  --master local[8] --py-files dq_machine.zip dqMachine/src/main/python/main.py --verbose
+  381  ls
+  382  chmod 777 main.py 
+  383  ls
+  384  chmod 777 * 
+  385  ls
+  386  cd ..
+  387  ls
+  388  spark-submit  --master local[8] --py-files dq_machine.zip dqMachine/src/main/python/main.py --verbose
+  389  python dqMachine/src/main/python/main.py 
+  390  pyspark dqMachine/src/main/python/main.py 
+  391  spark-submit dqMachine/src/main/python/main.py 
+  392  scala
+  393  ls
+  394  cd scalaProject/
+  395  ls
+  396  cd src/
+  397  ls
+  398  cd main/
+  399  ls
+  400  cd scala/
+  401  ls
+  402  vim hdfsDiscovery.scala 
+  403  vsp newAddCheck.scala 
+  404  vim newAddCheck.scala 
+  405  vim hdfsDiscovery.scala 
+  406  vim newAddCheck.scala 
+  407  vim hdfsDiscovery.scala 
+  408  ls
+  409  vim contextClass.scala 
+  410  vim newAddCheck.scala 
+  411  ls
+  412  vim contextClass.scala 
+  413  ls
+  414  vim Main.scala 
+  415  vim hdfsDiscovery.scala 
+  416  rm Main.scala 
+  417  ls
+  418  vim output1.txt 
+  419  rm output1.txt 
+  420  ls
+  421  sbt
+  422  ls
+  423  cd input/
+  424  ls
+  425  cd ..
+  426  ls
+  427  vim hdfsDiscovery.scala 
+  428  ls
+  429  cd git_repos/
+  430  ls
+  431  spark-submit --py-files dq_machine.zip dqMachine/src/main/python/main.py 
+  432  ls
+  433  cd dqMachine/
+  434  ls
+  435  vim pysparkBuild.sh 
+  436  ./pysparkBuild.sh cleans
+  437  ./pysparkBuild.sh python
+  438  cd ..
+  439  ls
+  440  cd dqMachine/
+  441  ./pysparkBuild.sh cleans
+  442  cd ..
+  443  ls
+  444  cd dqMachine/
+  445  ./pysparkBuild.sh python
+  446  cd ..
+  447  ls
+  448  /bin/spark-submit --master yarn --deploy-mode cluster --num-executors 10 --driver-memory 10g --executor-memory 10g --executor-cores 16 --queue default preprocessor_bestbuy.py /npd/rawdata/data/retailerinput/retailer_1022/1022/2000121/0 
+  449  spark-submit  dqMachine/src/main/python/main.py 
+  450  ls
+  451  cd dqMachine/
+  452  ls
+  453  cd src/
+  454  ls
+  455  cd main/
+  456  ls
+  457  cd python/
+  458  ls
+  459  vim main.py 
+  460  cd ..
+  461  ls
+  462  cd ..
+  463  ls
+  464  cd daM
+  465  cd dqMachine/
+  466  ls
+  467  ./pysparkBuild.sh cleans
+  468  ./pysparkBuild.sh python
+  469  cd ..
+  470  ls
+  471  spark-submit --py-files dq_machine.zip dqMachine/src/main/python/main.py 
+  472  cd ..
+  473  cd git_repos/
+  474  cd dqMachine/
+  475  ls
+  476  cd src/
+  477  ls
+  478   cd main/
+  479  ls
+  480  cd python/
+  481  ls
+  482  vim main.py 
+  483  unset PYSPARK_DRIVER_PYTHON
+  484  spark-submit --py-files dq_machine.zip dqMachine/src/main/python/main.py 
+  485  spark-submit --py-files dq_machine.zip main.py 
+  486  cd dq
+  487  cd dqM
+  488  ls
+  489  vim main.py 
+  490  ls
+  491  cd ..
+  492  l
+  493  ./pysparkBuild.sh cleans
+  494  ./pysparkBuild.sh python
+  495  cd ..
+  496  ls
+  497  cd dqMachine/
+  498  ls
+  499  cd src/
+  500  cd ..
+  501  ls
+  502  cd ..
+  503  ls
+  504  cd ..
+  505  ls
+  506  cd scalaProject/
+  507  ls
+  508  cd src/
+  509  ls
+  510  cd main/
+  511  ls
+  512  cd scala/
+  513  ls
+  514  vim Main.scala 
+  515  vim hdfsDiscovery.scala 
+  516  spark-shell
+  517  ls
+  518  cd git_repos/
+  519  ls
+  520  cd dqMachine/
+  521  ls
+  522  cd src/
+  523  ls
+  524  cd main/
+  525  ls
+  526  cd python/
+  527  ls
+  528  vim pysparkProject.py
+  529  cd ..
+  530  ls
+  531  cd dqMachine/
+  532  ls
+  533  ./pysparkBuild.sh python
+  534  cd ..
+  535  spark-submit --py-files dq_machine.zip 
+  536  spark-submit --py-files dq_machine.zip dqMachine/src/main/python/main.py 
+  537  history
+  538  unset PYSPARK_DRIVER_PYTHON
+  539  spark-submit --py-files dq_machine.zip dqMachine/src/main/python/main.py 
+  540  cd dqMachine/
+  541  ls
+  542  cd src/
+  543  ls
+  544  cd main/
+  545  ls
+  546  cd python/
+  547  ls
+  548  vim main.py 
+  549  cd ..
+  550  ls
+  551  ./pysparkBuild.sh python
+  552  cd ..
+  553  spark-submit --py-files dq_machine.zip dqMachine/src/main/python/main.py 
+  554  ping google.com
+  555  ls
+  556  cd git_repos/
+  557  ls
+  558  cd dqMachine/
+  559  ls
+  560  cd src/
+  561  ls
+  562  cd main/
+  563  ls
+  564  cd scala/
+  565  ls
+  566  vim sc
+  567  vim main.scala 
+  568  spark-shell
+  569  ls
+  570  cd git_repos/
+  571  ls
+  572  cd dqm
+  573  cd dqMachine/
+  574  ls
+  575  git pull
+  576  git push origin master
+  577  ls
+  578  cd src/
+  579  ls
+  580  cd main/
+  581  ls
+  582   cd  python/
+  583  ls
+  584  cd ..
+  585  ls
+  586  cd ..
+  587  ls
+  588  git pull
+  589  ls
+  590  cd ..
+  591  lks
+  592  ls
+  593  cd dqMachine/
+  594  ls
+  595  git add .
+  596  git commit -m "adding multiple python files"
+  597  git pull
+  598  git push origin master
+  599  cd ..
+  600  ls
+  601  cd dqMachine/
+  602  ls
+  603  cd src/
+  604  ls
+  605  cd main/
+  606  ls
+  607  cd python/
+  608  ls
+  609  vim pysparkProject.py
+  610  ls
+  611  cd dqMa
+  612  ls
+  613  cd git_repos/
+  614  cd ..
+  615  ls
+  616  cd git_repos/
+  617  ls
+  618  cd dqMachine/
+  619  ls
+  620  git pull
+  621  ls
+  622  git pull
+  623  ls
+  624  cd src/
+  625  ls
+  626  cd main/
+  627  ls
+  628  cd python/
+  629  ls
+  630  vim main.py 
+  631  ls
+  632  cd db/
+  633  ls
+  634  vim jobstatus_db.py 
+  635  ls
+  636  cd ..
+  637  vim main.py 
+  638  ls
+  639  python main.py 
+  640  cd ..
+  641  ls
+  642  ./pysparkBuild.sh cleans
+  643  ./pysparkBuild.sh pythn
+  644  ./pysparkBuild.sh python
+  645  cd ..
+  646  spark-submit --py-files dq_machine.zip dqMachine/src/main/python/main.py 
+  647  history
+  648  history > newfile
+  649  vim newfile 
+  650  unset PYSPARK_DRIVER_PYTHON
+  651  spark-submit --py-files dq_machine.zip dqMachine/src/main/python/main.py 
+  652  ls
+  653  cd dqMachine/
+  654  ls
+  655  cd src/
+  656  ls
+  657  cd main/
+  658  ls
+  659  cd python/
+  660  ls
+  661  cd db/
+  662  ls
+  663  cd ..
+  664  ls
+  665  vim main
+  666  vim main.py 
+  667  cd ..
+  668  ls
+  669  cd ..
+  670  ls
+  671  cd dqMachine/
+  672  ls
+  673  ./pysparkBuild.sh cleans
+  674  ./pysparkBuild.sh pythn
+  675  ./pysparkBuild.sh python
+  676  cd ..
+  677  ls
+  678  spark-submit --py-files dq_machine.zip dqMachine/src/main/python/main.py 
+  679  lsa
+  680  ls
+  681  cd git_repos/
+  682  ls
+  683  cd dqMachine/
+  684  ls
+  685  cd src/
+  686  ls
+  687  cd main/
+  688  cd python/
+  689  ls
+  690  vim main.py 
+  691  ls
+  692  spark-submit main.py 
+  693  history
+  694  q
+  695  unset PYSPARK_DRIVER_PYTHON
+  696  spark-submit main.py 
+  697  vim main.py 
+  698  spark-submit main.py 
+  699  vim main.py 
+  700  spark-submit main.py 
+  701  ls
+  702  chmod 777 db
+  703  ls
+  704  spark-submit main.py 
+  705  cd db/
+  706  ls
+  707  cd ..
+  708  ls
+  709  vim main.py 
+  710  spark-submit main.py 
+  711  vim main.py 
+  712  spark-submit main.py 
+  713  python -versin
+  714  python -version
+  715  python -v
+  716  ls
+  717  cd ..
+  718  ls
+  719  cd ..
+  720  ls
+  721  cd ..
+  722  ls
+  723  vim pysparkBuild.sh 
+  724  cd src/
+  725  vim __init__.py
+  726  ls
+  727  cd main/
+  728  vim __init__.py
+  729  ls
+  730  cd python/
+  731  ls
+  732  vim __init__.py
+  733  ls
+  734  cd db/
+  735  vim __init__.py
+  736  ls
+  737  cd ..
+  738  ls
+  739  cd python/
+  740  ls
+  741  vim main.py 
+  742  spark-subit main.py
+  743  spark-submit main.py
+  744  vim main.py 
+  745  spark-submit main.py
+  746  vim main.py 
+  747  spark-submit main.py
+  748  vim main.py 
+  749  spark-submit main.py
+  750  vim main.py 
+  751  spark-submit main.py
+  752  cd db/
+  753  ls
+  754  cd ..
+  755  ls
+  756  vim main.py 
+  757  spark-submit main.py
+  758  cd db/
+  759  ls
+  760  cd ..
+  761  vim main.py 
+  762  spark-submit main.py
+  763  vim main.py 
+  764  spark-submit main.py
+  765  ls
+  766  cd ..
+  767  ls
+  768  cd ..
+  769  ls
+  770  cd ..
+  771  ls
+  772  ./pysparkBuild.sh cleans
+  773  ./pysparkBuild.sh pythn
+  774  ./pysparkBuild.sh python
+  775  cd ..
+  776  spark-submit --py-files dq_machine.zip dqMachine/src/main/python/main.py
+  777  ls
+  778  cd dqMachine/
+  779  ls
+  780  git pull
+  781  git add .
+  782  git push
+  783  git commit -m "adding all files"
+  784  git push origin master
+  785  ls
+  786  cd src/
+  787  ls
+  788  cd main/
+  789  ls
+  790  cd python/
+  791  ls
+  792  vim main.py 
+  793  cd ..
+  794  c d..
+  795  ls
+  796  cd ..
+  797  ls
+  798  cd ..
+  799  ls
+  800  ./pysparkBuild.sh cleans
+  801  ./pysparkBuild.sh python
+  802  cd ..
+  803  spark-submit --py-files dq_machine.zip dqMachine/src/main/python/main.py
+  804  cd dqm
+  805  cd dqMachine/
+  806  ls
+  807  cd src/
+  808  cd main/python/
+  809  ls
+  810  cd db/
+  811  ls
+  812  vim jobstatus_db.py
+  813  cd ..
+  814  lks
+  815  ls
+  816  ./pysparkBuild.sh cleans
+  817  ./pysparkBuild.sh pythn
+  818  ./pysparkBuild.sh python
+  819  cd ..
+  820  ls
+  821  spark_submit --py-files dq_machine.zip dqMachine/src/main/python/main.py 
+  822  spark-submit --py-files dq_machine.zip dqMachine/src/main/python/main.py 
+  823  cd dqMachine/
+  824  ls
+  825  cd src/
+  826  ls
+  827  cd main/
+  828  ls
+  829  cd python/
+  830  ls
+  831  cd main.py 
+  832  ls
+  833  cd db/
+  834  ls
+  835  cd ..
+  836  ls
+  837  vim main.py 
+  838  cd ..
+  839  ls
+  840  ./pysparkBuild.sh cleans
+  841  ./pysparkBuild.sh python
+  842  cd ..
+  843  spark-submit --py-files dq_machine.zip dqMachine/src/main/python/main.py 
+  844  cd dqMachine/
+  845  ls
+  846  cd src/
+  847  cd main/
+  848  ls
+  849  cd python/
+  850  ls
+  851  cd db/
+  852  ls
+  853  vim jobstatus_db.py
+  854  cd ..
+  855  ls
+  856  vim main.py 
+  857  cd db
+  858  ls
+  859  cd ..
+  860  spark-submit main.py 
+  861  ls
+  862  cd ..
+  863  ls
+  864  cd ...
+  865  cd ..
+  866  ls
+  867  git add .
+  868  git pull
+  869  git commit -m "uploading the package importing files"
+  870  git push origin master
+  871  ls
+  872  cd src/
+  873  cd main/python/
+  874  ls
+  875  vim main.py 
+  876  spark-submit main.py 
+  877  vim main.py 
+  878  spark-submit main.py 
+  879  vim main.py 
+  880  spark-submit main.py 
+  881  vim main.py 
+  882  spark-submit main.py 
+  883  ls
+  884  vim main.py 
+  885  spark-submit main.py 
+  886  cd ..
+  887  ls
+  888  cd ..l
+  889  cd ..
+  890  ls
+  891  cd ..
+  892  ls
+  893  ls
+  894  cd git_repos/
+  895  cd dqMachine/
+  896  ls
+  897  git pull
+  898  ls
+  899  cd src/
+  900  ls
+  901  cd main/
+  902  ls
+  903  cd python/
+  904  ls
+  905  cd db/
+  906  ls
+  907  cd ..
+  908  ls
+  909  cd ..
+  910  ls
+  911  git pull
+  912  ls
+  913  cd src/
+  914  ls
+  915  cd main/
+  916  ls
+  917  cd python/
+  918  ls
+  919  cd db/
+  920  ls
+  921  cd ..
+  922  ls
+  923  cd ..
+  924  ls
+  925  cd git_repos/
+  926  ls
+  927  cd dqMachine/
+  928  ls
+  929  git pull
+  930  ls
+  931  git add .
+  932  git commit -m "all changes are going to be commited"
+  933  git push origin master
+  934  git pull
+  935  ls
+  936  cd src/
+  937  ls
+  938  cd main/
+  939  ls
+  940  cd python/
+  941  ls
+  942  cd preprocessor/
+  943  ls
+  944  vim preprocessor_bulk.py 
+  945  ;s
+  946  ls
+  947  cd git_repos/
+  948  ls
+  949  cd dqm
+  950  cd dqMachine/
+  951  ls
+  952  cd src/
+  953  ls
+  954  cd main/
+  955  ls
+  956  cd python/
+  957  l
+  958  ls
+  959  cd preprocessor/
+  960  ls
+  961  vim preprocessor_bulk.py 
+  962  ls
+  963  cd git_repos/
+  964  ls
+  965  cd dqMachine/
+  966  ls
+  967  cd src/
+  968  ls
+  969  cd main/
+  970  ls
+  971  cd python/
+  972  ls
+  973  cd preprocessor/
+  974  ls
+  975  vim preprocessor_bulk.py 
+  976  ls
+  977  cd ..
+  978  l
+  979  ls
+  980  cd ..
+  981  ls
+  982  cd ..
+  983  ls
+  984  cd ..
+  985  ls
+  986  vim __init__.py
+  987  ls
+  988  cd ..
+  989  l
+  990  ls
+  991  cd dqMachine/
+  992  ls
+  993  cd src/
+  994  ls
+  995  cd main/python/
+  996  ls
+  997  cd db
+  998  vim __init__.py
+  999  ls
+ 1000  vim jobstatus_db.py
+ 1001  ls
+ 1002  cd git_repos/
+ 1003  ls
+ 1004  cd dqMachine/
+ 1005  ls
+ 1006  cd src/
+ 1007  ls
+ 1008  cd main/
+ 1009  ls
+ 1010  cd python/
+ 1011  cd pyt
+ 1012  cd python
+ 1013  ls
+ 1014  cd ..
+ 1015  ls
+ 1016  git pull
+ 1017  ls
+ 1018  cd src/
+ 1019  ls
+ 1020  cd main/
+ 1021  ls
+ 1022  cd python/
+ 1023  ls
+ 1024  vim __init__.py 
+ 1025  ls
+ 1026  cd preprocessor/
+ 1027  ls
+ 1028  vim _-
+ 1029  vim __init__.py 
+ 1030  q
+ 1031  s
+ 1032  ls
+ 1033  vim preprocessor_bulk.py 
+ 1034  ;s
+ 1035  ls
+ 1036  cd ..
+ 1037  vim main.py 
+ 1038  spark-submit main.py 
+ 1039  history
+ 1040  history > tempfile

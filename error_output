@@ -1,0 +1,20 @@
+nohup: ignoring input
+Ivy Default Cache set to: /home/abdul.sabbir/.ivy2/cache
+The jars for the packages stored in: /home/abdul.sabbir/.ivy2/jars
+:: loading settings :: url = jar:file:/usr/hdp/2.6.3.0-235/spark2/jars/ivy-2.4.0.jar!/org/apache/ivy/core/settings/ivysettings.xml
+mysql#mysql-connector-java added as a dependency
+:: resolving dependencies :: org.apache.spark#spark-submit-parent;1.0
+	confs: [default]
+	found mysql#mysql-connector-java;5.1.39 in central
+:: resolution report :: resolve 169ms :: artifacts dl 6ms
+	:: modules in use:
+	mysql#mysql-connector-java;5.1.39 from central in [default]
+	---------------------------------------------------------------------
+	|                  |            modules            ||   artifacts   |
+	|       conf       | number| search|dwnlded|evicted|| number|dwnlded|
+	---------------------------------------------------------------------
+	|      default     |   1   |   0   |   0   |   0   ||   1   |   0   |
+	---------------------------------------------------------------------
+:: retrieving :: org.apache.spark#spark-submit-parent
+	confs: [default]
+	0 artifacts copied, 1 already retrieved (0kB/6ms)

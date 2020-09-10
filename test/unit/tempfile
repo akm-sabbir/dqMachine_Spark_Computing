@@ -1,0 +1,1000 @@
+   57  ls
+   58  cd main/
+   59  ls
+   60  cd scala/
+   61  ls
+   62  cd hiveODS/
+   63  l
+   64  ls
+   65  cd ..
+   66  ls
+   67  cd compressionUncompression/
+   68  ls
+   69  vim fileDecompression.scala 
+   70  ls
+   71  cd git_repos/
+   72  ls
+   73  cd dqMachine/
+   74  ls
+   75  cd src/
+   76  ls
+   77  cd ls
+   78  ls
+   79  cd main/
+   80  ls
+   81  cd scala/
+   82  ls
+   83  vim csvReader.scala 
+   84  ls
+   85  cd git_repos/
+   86  ls
+   87  cd dqMachine/
+   88  ls
+   89  cd src/
+   90  ls
+   91  cd main/
+   92  ls
+   93  cd python/
+   94  ls
+   95  cd db/
+   96  ls
+   97  vim jobstatus_db.py
+   98  ls
+   99  scala
+  100  python
+  101  ls
+  102  cd git_repos/
+  103  ls
+  104  cd dqMachine/
+  105  ls
+  106  cd ..
+  107  ls
+  108  cd ..
+  109  ls
+  110  cd pyspark
+  111  cd pysparkProject
+  112  ls
+  113  cd ..
+  114  ls
+  115  cd oozie/
+  116  ls
+  117  cd ..
+  118  ls
+  119  cd git_repos/
+  120  ls
+  121  cd dqMachine/
+  122  ls
+  123  cd target/
+  124  ls
+  125  cd scala-2.11/
+  126  ls
+  127  cd ..
+  128  ls
+  129  cd ..
+  130  ls
+  131  mkdir test
+  132  ls
+  133  cd test/
+  134  ls
+  135  mkdir unit
+  136  mkdir functional
+  137  ls
+  138  vim mainTest.py
+  139  ls
+  140  cp mainTest.py unit/
+  141  cd unit/
+  142  ls
+  143  cd ..
+  144  ls
+  145  rm mainTest.py 
+  146  ls
+  147  cd unit/
+  148  ls
+  149  cd ..
+  150  ls
+  151  cd ..
+  152  ls
+  153  cd src/
+  154  ls
+  155  cd main/
+  156  ls
+  157  cd python/
+  158  ls
+  159  mkdir logger
+  160  ls
+  161  cd logger/
+  162  ls
+  163  cd git_repos/
+  164  ls
+  165  cd dqMachine/
+  166  ls
+  167  git pull
+  168  git add .
+  169  git commit -m " adding new framework structure"
+  170  git push origin master
+  171  ls
+  172  cd test/
+  173  ls
+  174  cd unit/
+  175  ls
+  176  cd ..
+  177  cd functional/
+  178  ls
+  179  vim mainFunctional.py
+  180  pythn
+  181  python
+  182  ls
+  183  vim mainFunctional.py 
+  184  python mainFunctional.py 
+  185  vim mainFunctional.py 
+  186  python mainFunctional.py 
+  187  vim mainFunctional.py 
+  188  python mainFunctional.py 
+  189  vim mainFunctional.py 
+  190  python mainFunctional.py 
+  191  vim mainFunctional.py 
+  192  python mainFunctional.py 
+  193  vim mainFunctional.py 
+  194  python mainFunctional.py 
+  195  vim mainFunctional.py 
+  196  python mainFunctional.py 
+  197  vim mainFunctional.py 
+  198  python mainFunctional.py 
+  199  vim mainFunctional.py 
+  200  python mainFunctional.py 
+  201  vim mainFunctional.py 
+  202  python mainFunctional.py 
+  203  vim mainFunctional.py 
+  204  python mainFunctional.py 
+  205  vim mainFunctional.py 
+  206  python mainFunctional.py 
+  207  vim mainFunctional.py 
+  208  python mainFunctional.py 
+  209  vim mainFunctional.py 
+  210  python mainFunctional.py 
+  211  vim mainFunctional.py 
+  212  python mainFunctional.py 
+  213  vim mainFunctional.py 
+  214  python mainFunctional.py 
+  215  vim mainFunctional.py 
+  216  python mainFunctional.py 
+  217  vim mainFunctional.py 
+  218  python mainFunctional.py 
+  219  :q
+  220  python mainFunctional.py 
+  221  vim mainFunctional.py 
+  222  python mainFunctional.py 
+  223  vim mainFunctional.py 
+  224  ls
+  225  ls
+  226  cd git_repos/
+  227  ls
+  228  pythn
+  229  python
+  230  ls
+  231  ls
+  232  hdfs dfs -ls /hdpdata/richard/dict_db
+  233  ls
+  234  cd ..
+  235  ls
+  236  cd hdpdata/
+  237  ls
+  238  cd richard/l
+  239  cd richard/
+  240  ls
+  241  cd dict_db/
+  242  ls
+  243  vim dictstatus_db.py 
+  244  vim test_db.py 
+  245  ls
+  246  cd ..
+  247  cd /hdpdata/
+  248  ls
+  249  cd richard/
+  250  ls
+  251  cd dict_db/
+  252  ls
+  253  vim dictstatus_db.py 
+  254  python
+  255  ls
+  256  vim dictstatus_db.py 
+  257  python
+  258  ls
+  259  cp dictstatus_db.py test_db.py /home/abdul.sabbir/git_repos/dqMachine/
+  260  cp dictstatus_db.py test_db.py /home/abdul.sabbir/git_repos/dqMachine/src/main/python/db/
+  261  cd ..
+  262  ls
+  263  cd ..
+  264  ls
+  265  cd h
+  266  cd ..
+  267  cd home/
+  268  cd abdul.sabbir/
+  269  ls
+  270  cd git_repos/
+  271  ls
+  272  cd dqMachine/
+  273  ls
+  274  rm dictstatus_db.py 
+  275  ls
+  276  rm test_db.py 
+  277  ls
+  278  cd src/
+  279  cd main/
+  280  ld
+  281  ls
+  282  cd python/
+  283  ls
+  284  cd main.py
+  285  cd db/
+  286  ls
+  287  vim dictstatus_db.py 
+  288  python
+  289  ls
+  290  python
+  291  ls
+  292  cd /
+  293  cd hdpdata/
+  294  ls
+  295  cd richard/
+  296  ls
+  297  cd db
+  298  cd dict_db/
+  299  ls
+  300  cim dictstatus_db.py 
+  301  vim dictstatus_db.py 
+  302  cd ..
+  303  ls
+  304  cd ..
+  305  ls
+  306  cd ..
+  307  ls
+  308  cd home/abdul.sabbir/
+  309  cd git_repos/
+  310  ls
+  311  cd dqMachine/
+  312  ls
+  313  cd src/
+  314  cd main/python/
+  315  ls
+  316  cd db/
+  317  ls
+  318  python
+  319  ls
+  320  vim dictstatus_db.py
+  321  ls
+  322  cd ..
+  323  cd .
+  324  ls
+  325  cd ..
+  326  ls
+  327  cd ..
+  328  ls
+  329  cd ..
+  330  ls
+  331  vim zipFileGenerator.py 
+  332  cd test/
+  333  ls
+  334  cd functional/
+  335  ls
+  336  cd .
+  337  cd ..
+  338  ls
+  339  cd unit/
+  340  ls
+  341  vim mainTest.py 
+  342  ls
+  343  vim mainTest.py 
+  344  python mainTest.py 
+  345  vim mainTest.py 
+  346  python mainTest.py 
+  347  cd ..
+  348  ls
+  349  cd //
+  350  ls
+  351  cd home/abdul.sabbir/
+  352  ls
+  353  cd git_repos/
+  354  ls
+  355  dqMachine/
+  356  ls
+  357  cd dqMachine/
+  358  ls
+  359  cd src/
+  360  cd ..
+  361  ls
+  362  cd  target/
+  363  ls
+  364  cd .
+  365  cd ..
+  366  ls
+  367  cd test/
+  368  ls
+  369  cd unit/
+  370  ls
+  371  cd ..
+  372  ls
+  373  vim zipFileGenerator.py 
+  374  ls
+  375  cd target/
+  376  ls
+  377  cd ..
+  378  ls
+  379  cd test
+  380  ls
+  381  cd unit/
+  382  ls
+  383  vim mainTest.py 
+  384  python mainTest.py 
+  385  vim mainTest.py 
+  386  python mainTest.py 
+  387  vim mainTest.py 
+  388  python mainTest.py 
+  389  vim mainTest.py 
+  390  python mainTest.py 
+  391  vim mainTest.py 
+  392  python mainTest.py 
+  393  vim mainTest.py 
+  394  python mainTest.py 
+  395  vim mainTest.py 
+  396  python mainTest.py 
+  397  vim mainTest.py 
+  398  python mainTest.py 
+  399  vim mainTest.py 
+  400  python mainTest.py 
+  401  cd ..
+  402  ls
+  403  cd ..
+  404  ls
+  405  vim zipFileGenerator.py 
+  406  cd test/
+  407  ls
+  408  cd unit/
+  409  ls
+  410  vim mainTest.py 
+  411  python mainTest.py 
+  412  vim mainTest.py 
+  413  python mainTest.py 
+  414  vim mainTest.py 
+  415  cd ..
+  416  ls
+  417  vim zipFileGenerator.py 
+  418  cd test/
+  419  ls
+  420  cd unit/
+  421  ls
+  422  python  mainTest.py 
+  423  vim mainTest.py 
+  424  python  mainTest.py 
+  425  vim mainTest.py 
+  426  python  mainTest.py 
+  427  vim mainTest.py 
+  428  python  mainTest.py 
+  429  vim mainTest.py 
+  430  s
+  431  ls
+  432  vim mainTest.py 
+  433  python mainTest.py 
+  434  vim mainTest.py 
+  435  python mainTest.py 
+  436  vim mainTest.py 
+  437  python mainTest.py 
+  438  vim mainTest.py 
+  439  python mainTest.py 
+  440  vim mainTest.py 
+  441  python mainTest.py 
+  442  vim mainTest.py 
+  443  python mainTest.py 
+  444  cd ..
+  445  ls
+  446  cd ..
+  447  ls
+  448  cd src/
+  449  ls
+  450  cd main/
+  451  ls
+  452  cd python/
+  453  ls
+  454  cd db/
+  455  ls
+  456  cd ..
+  457  ls
+  458  cd test/
+  459  ls
+  460  cd unit/
+  461  ls
+  462  vim mainTest.py 
+  463  ls
+  464  python mainTest.py 
+  465  vim mainTest.py 
+  466  python mainTest.py 
+  467  vim mainTest.py 
+  468  python mainTest.py 
+  469  vim mainTest.py 
+  470  python mainTest.py 
+  471  cd ..
+  472  cd ..cd 
+  473  cd ..
+  474  ls
+  475  cd src/
+  476  ls
+  477  cd main/
+  478  ls
+  479  cd python/
+  480  ls
+  481  cd db/
+  482  ls
+  483  vim dictstatus_db.py
+  484  cd .
+  485  cd ..
+  486  ls
+  487  cd ..
+  488  sls
+  489  ls
+  490  cd ..
+  491  ls
+  492  cd ..
+  493  ls
+  494  cd test/
+  495  ls
+  496  cd unit/
+  497  ls
+  498  vim mainTest.py 
+  499  ls
+  500  cd git_repos/
+  501  ls
+  502  cd dqMachine/
+  503  ls
+  504  cd src/
+  505  ls
+  506  cd ..
+  507  ls
+  508  cd test/
+  509  ls
+  510  cd unit/
+  511  ls
+  512  vim mainTest.py 
+  513  ls
+  514  vim mainTest.py 
+  515  python mainTest.py 
+  516  vim mainTest.py 
+  517  python mainTest.py 
+  518  vim mainTest.py 
+  519  python mainTest.py 
+  520  python
+  521  ls
+  522  cd git_repos/
+  523  ls
+  524  cd dqMachine/
+  525  ls
+  526  pythn
+  527  python
+  528  cd ..
+  529  python
+  530  ls
+  531  cd git_repos/
+  532  ls
+  533  cd dqMachine/
+  534  ls
+  535  cd target/
+  536  ls
+  537  cd ..
+  538  ls
+  539  cd  testr
+  540  ls
+  541  cd testr
+  542  cd test/
+  543  ls
+  544  cd unit/
+  545  ls
+  546  vim mainTest.py 
+  547  python mainTest.py 
+  548  vim mainTest.py 
+  549  python mainTest.py 
+  550  vim mainTest.py 
+  551  python mainTest.py 
+  552  vim mainTest.py 
+  553  python mainTest.py 
+  554  vim mainTest.py 
+  555  python mainTest.py 
+  556  cd ..
+  557   cd dqMachine/
+  558  ls
+  559  cd src/
+  560  ls
+  561  cd main/
+  562  cd python/
+  563  ls
+  564   cd db
+  565  ls
+  566  vim dictstatus_db.py
+  567  cd ..
+  568  ls
+  569  cd ..
+  570  ls
+  571  cd hdfsFileSystemDiscovery/
+  572  ls
+  573  cd scalaProject/
+  574  ls
+  575  cd ..
+  576  ls
+  577  cd dqMachine/
+  578  ls
+  579  s
+  580  ls
+  581  cd src/
+  582  ls
+  583  cd main/
+  584  ls
+  585  cd python/
+  586  ls
+  587  cd ..
+  588  ls
+  589  cd ..
+  590  lks
+  591  ls
+  592  cd test/
+  593  ls
+  594  cd unit/
+  595  ls
+  596  vim mainTest.py 
+  597  ls
+  598  vim __init__.py
+  599  ls
+  600  cd ..
+  601  ls
+  602  vim __init__.py
+  603  ls
+  604  cd ..
+  605  ls
+  606  cd test/
+  607  ls
+  608  cd unit/
+  609  ls
+  610  vim mainTest.py 
+  611  python mainTest.py 
+  612  cd ..
+  613  ls
+  614  python test/unit/mainTest.py 
+  615  cd test/
+  616  ls
+  617  cd unit/
+  618  vim mainTest.py 
+  619  python mainTest.py 
+  620  vim mainTest.py 
+  621  python mainTest.py 
+  622  vim mainTest.py 
+  623  python mainTest.py 
+  624  vim mainTest.py 
+  625  ls
+  626  cd ..
+  627  ls
+  628  cd ..
+  629  ls
+  630  vim definition.py
+  631  pythn definition.py 
+  632  python definition.py 
+  633  pythn definition.py 
+  634  vim definition.py
+  635  pythn definition.py 
+  636  python definition.py 
+  637  cd src/
+  638  cd ..
+  639  cd test/
+  640  ls
+  641  cd unit/
+  642  ls
+  643  vim mainTest.py 
+  644  cd ..
+  645  ls
+  646  cd ..
+  647  ls
+  648  vim definition.py 
+  649  cd src/
+  650  ls
+  651  cd main/
+  652  ls
+  653  cd ..
+  654  ls
+  655  cd ..
+  656  ls
+  657  cd test/
+  658  ls
+  659  cd unit/
+  660  ls
+  661  vim mainTest.py 
+  662  python mainTest.py 
+  663  ls
+  664  cd git_repos/
+  665  ls
+  666  cd dqMachine/
+  667  ls
+  668  cd src/
+  669  ls
+  670  cd main/
+  671  ls
+  672  cd ..
+  673  ls
+  674  cd target/
+  675  ls
+  676  cd ..
+  677  cd test/
+  678  ls
+  679  cd unit/
+  680  l
+  681  ls
+  682  vim mainTest.py 
+  683  ls
+  684  cd ..
+  685  ls
+  686  cd ..
+  687  ls
+  688  cd src/
+  689  cd main/
+  690  ls
+  691  cd pyut
+  692  cd python/
+  693  ls
+  694  cd preprocessor/
+  695  ls
+  696  vim preprocessor_bulk.py
+  697  cd git_repos/
+  698  cd dqMachine/
+  699  ls
+  700  cd src/
+  701  ls
+  702  cd main/
+  703  ls
+  704  cd python/
+  705  ls
+  706  cd db/
+  707  ls
+  708  vim jobstatus_db.py
+  709  vim dictstatus_db.py
+  710  ls
+  711  vim dictstatus_db.py
+  712  cd ..
+  713  cd ..
+  714  ls
+  715  cd ..
+  716  ls
+  717  cd ..
+  718  ls
+  719  cd test/
+  720  ls
+  721  cd unit/
+  722  ls
+  723  mkdir testFiles
+  724  vim mainTest.py 
+  725  python
+  726  vim test
+  727  vim testing.py
+  728  python mainTest.py --file testing.py
+  729  spark-submit mainTest.py --file testing.py
+  730  history > tempfile
+  731  vim tempfile 
+  732  vim testing.py
+  733  ls
+  734  cd git_repos/
+  735  ls
+  736  cd dqMachine/
+  737  ls
+  738  cd test/
+  739  ls
+  740  cd unit/
+  741  ls
+  742  vim mainTest.py 
+  743  cd ..
+  744  ls
+  745  cd ..
+  746  ls
+  747  cd src/
+  748  ls
+  749  cd main/
+  750  cd python/
+  751  ls
+  752  cd preprocessor/
+  753  ls
+  754  vim preprocessor_bulk.py
+  755  ls
+  756  cd ..
+  757  ls
+  758  rm tempfile 
+  759  ls
+  760  vim zipFileGenerator.py 
+  761  rm zipFileGenerator.py 
+  762  ls
+  763  vim main.py
+  764  cd logger/
+  765  ls
+  766  cd ..
+  767  ls
+  768  cd ..
+  769  ls
+  770  cd ..
+  771  l
+  772  ls
+  773  cd ..
+  774  ls
+  775  cd test/
+  776  ls
+  777  cd unit/
+  778  ls
+  779  vim mainTest.py 
+  780  python mainTest.py 
+  781  vim mainTest.py 
+  782  python mainTest.py 
+  783  vim mainTest.py 
+  784  cd ..
+  785  ls
+  786  cd src/
+  787  cd main/
+  788  ls
+  789  cd python/
+  790  ls
+  791  cd db/
+  792  ls
+  793  vim dictstatus_db.py
+  794  cd ..
+  795  ls
+  796  cd ..
+  797  ls
+  798  cd ..
+  799  ls
+  800  cd ..
+  801  ls
+  802  cd test/
+  803  ls
+  804  cd unit/
+  805  python mainTest.py 
+  806  vim mainTest.py 
+  807  python mainTest.py 
+  808  vim mainTest.py 
+  809  cd ..
+  810  ls
+  811  git pull
+  812  git add .
+  813  git commit -m "added unit testing module"
+  814  git push origin master
+  815  ls
+  816  cd test/
+  817  ls
+  818  cd unit/
+  819  ls
+  820  vim mainTest.py 
+  821  python mainTest.py 
+  822  vim mainTest.py 
+  823  python mainTest.py 
+  824  cd ..
+  825  ls
+  826  cd src/
+  827  ls
+  828  cd main/
+  829  ls
+  830  cd python/
+  831  ls
+  832  cd db/
+  833  ls
+  834  vim jobstatus_db.py
+  835  cd ..
+  836  ls
+  837  cd test/
+  838  cd unit/
+  839  ls
+  840  python mainTest.py 
+  841  vim mainTest.py 
+  842  python mainTest.py 
+  843  pyspark mainTest.py 
+  844  vim mainTest.py 
+  845  pyspark mainTest.py 
+  846  spark-submit mainTest.py 
+  847  history
+  848  history > tempfile
+  849  vim tempfile 
+  850  spark-submit mainTest.py 
+  851  unset PYSPARK_DRIVER_PYTHON
+  852  spark-submit mainTest.py 
+  853  cd ..
+  854  cd src/
+  855  cd main/
+  856  ls
+  857  cd python/
+  858  ls
+  859  cd preprocessor/
+  860  ls
+  861  cd ..
+  862  ls
+  863  cd db/
+  864  ls
+  865  vim jobstatus_db.py
+  866  cd ..
+  867  cd test/
+  868  ls
+  869  cd unit/
+  870  spark-submit mainTest.py 
+  871  vim mainTest.py 
+  872  spark-submit mainTest.py 
+  873  vim mainTest.py 
+  874  spark-submit mainTest.py 
+  875  vim mainTest.py 
+  876  spark-submit mainTest.py 
+  877  vim mainTest.py 
+  878  spark-submit mainTest.py 
+  879  vim mainTest.py 
+  880  spark-submit mainTest.py 
+  881  vim mainTest.py 
+  882  spark-submit mainTest.py 
+  883  vim mainTest.py 
+  884  spark-submit mainTest.py 
+  885  vim mainTest.py 
+  886  spark-submit mainTest.py 
+  887  ls
+  888  vim mainTest.py 
+  889  spark-submit mainTest.py 
+  890  vim mainTest.py 
+  891  spark-submit mainTest.py 
+  892  vim mainTest.py 
+  893  python mainTest.py 
+  894  spark-submit mainTest.py 
+  895  python mainTest.py 
+  896  vim mainTest.py 
+  897  spark-submit mainTest.py 
+  898  vim mainTest.py 
+  899  spark-submit mainTest.py 
+  900  vim mainTest.py 
+  901  spark-submit mainTest.py 
+  902  vim mainTest.py 
+  903  spark-submit mainTest.py 
+  904  vim mainTest.py 
+  905  spark-submit mainTest.py 
+  906  vim mainTest.py 
+  907  spark-submit mainTest.py 
+  908  vim mainTest.py 
+  909  spark-submit mainTest.py 
+  910  vim mainTest.py 
+  911  spark-submit mainTest.py 
+  912  vim mainTest.py 
+  913  spark-submit mainTest.py 
+  914  vim mainTest.py 
+  915  spark-submit mainTest.py 
+  916  vim mainTest.py 
+  917  spark-submit mainTest.py 
+  918  vim mainTest.py 
+  919  spark-submit mainTest.py 
+  920  vim mainTest.py 
+  921  spark-submit mainTest.py 
+  922  vim mainTest.py 
+  923  spark-submit mainTest.py 
+  924  vim mainTest.py 
+  925  spark-submit mainTest.py 
+  926  ls
+  927  vim mainTest.py 
+  928  spark-submit mainTest.py 
+  929  vim mainTest.py 
+  930  ls
+  931  vim testing.py
+  932  python mainTest.py --file testing.py
+  933  vim mainTest.py 
+  934  python mainTest.py --file fileName = testing.py 
+  935  python mainTest.py --file fileName=testing.py 
+  936  ls
+  937  vim mainTest.py 
+  938  python mainTest.py --file fileName=testing.py 
+  939  vim mainTest.py 
+  940  python mainTest.py --file fileName=testing.py 
+  941  vim mainTest.py 
+  942  python mainTest.py --file fileName=testing.py 
+  943  vim mainTest.py 
+  944  python mainTest.py --file fileName=testing.py 
+  945  vim mainTest.py 
+  946  python mainTest.py --file fileName=testing.py 
+  947  vim mainTest.py 
+  948  python mainTest.py --file fileName=testing.py --module src.main.python.db.dictstatus
+  949  vim mainTest.py 
+  950  python mainTest.py  --module src.main.python.db.dictstatus
+  951  vim mainTest.py 
+  952  python mainTest.py  --module src.main.python.db.dictstatus
+  953  sparks-submit mainTest.py  --module src.main.python.db.dictstatus
+  954  spark-submit mainTest.py  --module src.main.python.db.dictstatus
+  955  vim mainTest.py 
+  956  spark-submit mainTest.py  --module src.main.python.db.dictstatus_db
+  957  vim mainTest.py 
+  958  spark-submit mainTest.py  --module src.main.python.db.dictstatus_db.dictstatus_db
+  959  spark-submit mainTest.py  --module src.main.python.db.dictstatus_db.dictstatus_db --file testing.py
+  960  vim mainTest.py 
+  961  ls
+  962  vim testing.py 
+  963  spark-submit mainTest.py   --file testing.py
+  964  vim testing.py 
+  965  vim mainTest.py 
+  966  spark-submit mainTest.py   --file testing.py
+  967  vim mainTest.py 
+  968  spark-submit mainTest.py   --file testing.py
+  969  vim mainTest.py 
+  970  spark-submit mainTest.py   --file testing.py
+  971  vim mainTest.py 
+  972  spark-submit mainTest.py   --file testing.py
+  973  vim mainTest.py 
+  974  spark-submit mainTest.py   --file testing.py
+  975  vim testing.py
+  976  spark-submit mainTest.py   --file testing.Test
+  977  vim mainTest.py 
+  978  spark-submit mainTest.py   --file testing.Test
+  979  vim mainTest.py 
+  980  spark-submit mainTest.py   --file testing.Test
+  981  vim mainTest.py 
+  982  ls
+  983  vim testing.py
+  984  cd ..
+  985  cd dqMachine/
+  986  ls
+  987  git pull
+  988  git add .
+  989  git commit -m "added unit testing functionality"
+  990  cd push
+  991  cd push origin master
+  992  git  push origin master
+  993  ls
+  994  cd test/
+  995  ls
+  996  cd unit/
+  997  ls
+  998  rm tempfile
+  999  ls
+ 1000  cd git_repos/
+ 1001  ls
+ 1002  cd dqMachine/
+ 1003  ls
+ 1004  python zipFileGenerator.py 
+ 1005  vim zipFileGenerator.py 
+ 1006  vim zipFileGenerator.py src
+ 1007  python zipFileGenerator.py src
+ 1008  ls
+ 1009  vim zipFileGenerator.py 
+ 1010  vim zipFileGenerator.py build
+ 1011  python zipFileGenerator.py build
+ 1012  vim zipFileGenerator.py build
+ 1013  python zipFileGenerator.py build
+ 1014  vim zipFileGenerator.py build
+ 1015  python zipFileGenerator.py build
+ 1016  vim zipFileGenerator.py build
+ 1017  python zipFileGenerator.py build
+ 1018  python zipFileGenerator.py clean
+ 1019  ls
+ 1020  python zipFileGenerator.py test
+ 1021  python zipFileGenerator.py build
+ 1022  python zipFileGenerator.py test
+ 1023  ls
+ 1024  cd src/
+ 1025  ls
+ 1026  cd main/
+ 1027  ls
+ 1028  cd python/
+ 1029  ls
+ 1030  rm dq_machine.zip 
+ 1031  ls
+ 1032  vim pysparkProject.py
+ 1033  cd db/
+ 1034  ls
+ 1035  cd ..
+ 1036  ;ls
+ 1037  cd ..
+ 1038  ls
+ 1039  cd ..
+ 1040  ls
+ 1041  cd ..
+ 1042  ls
+ 1043  cd test/
+ 1044  ls
+ 1045  cd unit/
+ 1046  ls
+ 1047  vim mainTest.py 
+ 1048  spark-submit mainTest.py src.main.python.db.dictstatus_db.dictstatus_db
+ 1049  ls
+ 1050  cd ..
+ 1051  ls
+ 1052  cd unit/
+ 1053  ls
+ 1054  vim testing.py
+ 1055  vim mainTest.py 
+ 1056  history > tempfile

@@ -1,0 +1,1000 @@
+   51  ls
+   52  cd target/
+   53  ls
+   54  cp dqmachine-udf-1.0-SNAPSHOT.jar ../../hive/
+   55  cd ..
+   56  ls
+   57  cd hgi
+   58  cd hive/
+   59  ls
+   60  hive -f createExternalTable.sql 
+   61  vim createExternalTable.sql 
+   62  hive -f createExternalTable.sql 
+   63  ls
+   64  vim createTable.sql 
+   65  hive -f createTable.sql 
+   66  vim createTable.sql 
+   67  vim insertInPosOutletWithPartition.sql 
+   68  hive -f insertInPosOutletWithPartition.sql 
+   69  vim insertInPosOutletWithPartition.sql 
+   70  hive -f insertInPosOutletWithPartition.sql 
+   71  vim insertInPosOutletWithPartition.sql 
+   72  hive -f insertInPosOutletWithPartition.sql 
+   73  vim insertInPosOutletWithPartition.sql 
+   74  hive -f insertInPosOutletWithPartition.sql 
+   75  hive
+   76  sbt test
+   77  cd src/test/
+   78  ls
+   79  cd java/net/diybigdata/udf/
+   80  vim partitionDeterminer_t.java 
+   81  cd ..
+   82  ls
+   83  cd .
+   84  cd ..
+   85  ls
+   86  sbt test
+   87  cd src/test/
+   88  ls
+   89  vim java/net/diybigdata/udf/partitionDeterminer_t.java 
+   90  cd ..
+   91  ls
+   92  vim main/java/net/diybigdata/udf/partitionDeterminer.java 
+   93  ls
+   94  vim test/java/net/diybigdata/udf/partitionDeterminer_t.java 
+   95  cd ..
+   96  ls
+   97  sbt test
+   98  vim src/test/java/net/diybigdata/udf/partitionDeterminer_t.java 
+   99  ls
+  100  sbt test
+  101  vim src/test/java/
+  102  vim src/test/java/net/diybigdata/udf/partitionDeterminer_t.java 
+  103  vim src/main/java/net/diybigdata/udf/partitionDeterminer.java 
+  104  sbt test
+  105  hive -f insertInPosOutletWithPartition.sql 
+  106  ls
+  107  cd ..
+  108  cd hive/
+  109  vim itemIdWithPartition.txt 
+  110  ls
+  111  cd hive/
+  112  cd ..
+  113  ls
+  114  cd udf-development/src/main/java/net/diybigdata/udf/
+  115  ls
+  116  vim itemIdWithPartition.txt 
+  117  cd ..
+  118  cd hive
+  119  cd ../../../
+  120  ls
+  121  cd ..
+  122  cd hive/
+  123  ls
+  124  vim insertInPosOutletWithPartition.sql 
+  125  cd /
+  126  cd hdpdata/richard/dict_db/20170
+  127  cd hdpdata/richard/dict_db/20170906/
+  128  ls
+  129  vim run_find.sh 
+  130  vim find_candidate_itemids.py 
+  131  ls
+  132  cd udf-development/
+  133  ls
+  134  sbt test
+  135  vim src/main/java/net/diybigdata/udf/partitionDeterminer.java 
+  136  sbt test
+  137  vim src/test/
+  138  vim src/test/java/net/diybigdata/udf/partitionDeterminer_t.java 
+  139  sbt test
+  140  ls
+  141  cd target/
+  142  ls
+  143  rm dqmachine-udf-1.0-SNAPSHOT.jar 
+  144  ls
+  145  cd ..
+  146  sbt package
+  147  cd target/
+  148  l
+  149  ls
+  150  cd ..
+  151  cd hive/
+  152  ls
+  153  rm dqmachine-udf-1.0-SNAPSHOT.jar 
+  154  cd ..
+  155  cud
+  156  cd  udf-development/
+  157  ls
+  158  cd target/
+  159  ls
+  160  cp dqmachine-udf-1.0-SNAPSHOT.jar ../../hive/
+  161  cd ..
+  162  cd hive/
+  163  ls
+  164  hive
+  165  ls
+  166  cd ..
+  167  cd udf-development/
+  168  ls
+  169  cd src/
+  170  vim main/java/net/diybigdata/udf/partitionDeterminer.java 
+  171  cd ..
+  172  ls
+  173  cd src/test/
+  174  ls
+  175  vim java/net/diybigdata/udf/partitionDeterminer_t.java java/
+  176  cd 
+  177  cd ..
+  178  ls
+  179  cd abdul.sabbir/
+  180  cd udf-development/
+  181  vim src/main/java/net/diybigdata/udf/partitionDeterminer.java 
+  182  sbt test
+  183  vim src/main/java/net/diybigdata/udf/partitionDeterminer.java 
+  184  sbt test
+  185  vim src/main/java/net/diybigdata/udf/partitionDeterminer.java 
+  186  sbt test -Xdiags:verbose
+  187  cd ..
+  188  cd hive/
+  189  vim insertInPosOutletWithPartition.sql 
+  190  cd ..
+  191  ls
+  192  cd udf-development/
+  193  ls
+  194  vim src/main/java/net/diybigdata/udf/partitionDeterminer.java 
+  195  hive
+  196  ls
+  197  cd ..
+  198  ls
+  199  cd hive/
+  200  ls
+  201  vim insertInPosOutletWithPartition.sql 
+  202  ls
+  203  hive
+  204  ls
+  205  vim insertInPosOutletWithPartition.sql 
+  206  vim insertIntoPartition.sql 
+  207  vim insertWithoutPartition.sql 
+  208  vim insertInPosOutletWithPartition.sql 
+  209  vim insertCommand.sql 
+  210  vim insertWithoutPartition.sql 
+  211  vim insertIntoPartition.sql 
+  212  vim insertInPosOutletWithPartition.sql 
+  213  hive
+  214  ls
+  215  cd hive/
+  216  ls
+  217  vim insertIn
+  218  vim insertInPosOutletWithPartition.sql 
+  219  hive -f insertInPosOutletWithPartition.sql 
+  220  :q
+  221  vim insertInPosOutletWithPartition.sql 
+  222  hive -f insertInPosOutletWithPartition.sql 
+  223  vim insertInPosOutletWithPartition.sql 
+  224  hive -f insertInPosOutletWithPartition.sql 
+  225  vim insertInPosOutletWithPartition.sql 
+  226  hive -f insertInPosOutletWithPartition.sql 
+  227  vim insertInPosOutletWithPartition.sql 
+  228  hive -f insertInPosOutletWithPartition.sql 
+  229  vim insertInPosOutletWithPartition.sql 
+  230  hive -f insertInPosOutletWithPartition.sql 
+  231  ls
+  232  vim insertInPosOutletWithPartition.sql 
+  233  hive -f insertInPosOutletWithPartition.sql 
+  234  vim insertInPosOutletWithPartition.sql 
+  235  hive -f insertInPosOutletWithPartition.sql 
+  236  ls
+  237  vim itemIdWithPartition.txt 
+  238  ls
+  239  vim createIndex.sql 
+  240  hive -f createIndex.sql
+  241  ls
+  242  hive
+  243  ls
+  244  cd pysparkProject
+  245  ls
+  246  vim pysparkHiveContext.py 
+  247  ls
+  248  cd pysparkProject
+  249  ls
+  250  vim pysparkHiveContext.py 
+  251  vim itemIdWithPartition.txt 
+  252  cd ..
+  253  cd hdpdata/richard/dict_db/
+  254  ls
+  255  cd 20170
+  256  cd 20170906/
+  257  ls
+  258  ./run_find.sh
+  259  chmod 777 run_find.sh 
+  260  cd ..
+  261  cp 20170906/ ../../../home/abdul.sabbir/pysparkProject
+  262  cd ..
+  263  ls
+  264  cd ..
+  265  ls
+  266  cd ..
+  267  ls
+  268  cd home/
+  269  ls
+  270  cd abdul.sabbir/
+  271  ls
+  272  cd pysparkProject
+  273  ls
+  274  cd ..
+  275  ls -ltr
+  276  cd ..
+  277  ls
+  278  cd hdpdata/richard/
+  279  ls
+  280  cd dict_db/
+  281  ls
+  282  cp 20170906/ ../../../home/abdul.sabbir/pysparkProject/
+  283  cp -r 20170906/ ../../../home/abdul.sabbir/pysparkProject/
+  284  cd ..
+  285  ls
+  286  cd ..
+  287  ls
+  288  cd home/abdul.sabbir/
+  289  ls
+  290  cd pysparkProject
+  291  ls
+  292  cd 20170906/
+  293  ls
+  294  chmod 777 run_find.sh 
+  295  ls
+  296  ./run_find.sh 
+  297  ls
+  298  history
+  299  unset PYSPARK_DRIVER_PYTHON
+  300  ls
+  301  ./run_find.sh 
+  302  ls
+  303  cd ..
+  304  ls
+  305  vim pysparkHiveContext.py 
+  306  ls
+  307  ls -ltr
+  308  cd 20170906/
+  309  ls
+  310  vim vim find_candidate_itemids.py 
+  311  vim find_candidate_itemids.py 
+  312  ls -ltr
+  313  vim run_find.sh 
+  314  vim find_candidate_itemids.py 
+  315  cd pysparkProject
+  316  ls
+  317  vim pysparkHiveContext.py 
+  318  ls
+  319  cd 20170906/
+  320  ls
+  321  ./run_find.sh 
+  322  unset PYSPARK_DRIVER_PYTHON
+  323  ./run_find.sh 
+  324  ls
+  325  cd ..
+  326  ls
+  327  vim pysparkHiveContext.py 
+  328  ls
+  329  vim mainKnitter.py
+  330  python mainKnitter.py 
+  331  vim mainKnitter.py
+  332  python mainKnitter.py 
+  333  vim pysparkHiveContext.py 
+  334  python mainKnitter.py 
+  335  vim pysparkHiveContext.py 
+  336  python mainKnitter.py 
+  337  vim pysparkHiveContext.py 
+  338  python mainKnitter.py 
+  339  vim pysparkHiveContext.py 
+  340  python mainKnitter.py 
+  341  spark-submit mainKnitter.py 
+  342  cd 20`
+  343  ;
+  344  cd 20170906/
+  345  ls
+  346  cd ..
+  347  vim mainKnitter.py 
+  348  ls
+  349  mkdir upcModule
+  350  cp -r 20170906/ upcModule/
+  351  cd upcModule/
+  352  ls
+  353  cd ..
+  354  cp -r 20170906/* upcModule/
+  355  cd upcModule/
+  356  ls
+  357  rm -r 20170906/
+  358  ls
+  359  cd ..
+  360  ls
+  361  rm -r 20170906/
+  362  ls
+  363  vim mainKnitter.py 
+  364  spark-submit mainKnitter.py 
+  365  cd upcModule/
+  366  vim find_candidate_itemids.py 
+  367  cd ..
+  368  ls
+  369  vim pysparkHiveContext.py
+  370  spark-submit mainKnitter.py 
+  371  cd upcModule/
+  372  ls
+  373  cd ..
+  374  vim mainKnitter.py 
+  375  spark-submit mainKnitter.py 
+  376  vim mainKnitter.py 
+  377  cd upcModule/
+  378  vim __init__.py
+  379  cd ..
+  380  vim mainKnitter.py 
+  381  spark-submit mainKnitter.py 
+  382  vim mainKnitter.py 
+  383  spark-submit mainKnitter.py 
+  384  vim pysparkHiveContext.py
+  385  spark-submit mainKnitter.py 
+  386  vim pysparkHiveContext.py
+  387  vim mainKnitter.py 
+  388  spark-submit mainKnitter.py 
+  389  vim pysparkHiveContext.py
+  390  spark-submit mainKnitter.py 
+  391  vim mainKnitter.py 
+  392  vim pysparkHiveContext.py
+  393  spark-submit mainKnitter.py 
+  394  vim pysparkHiveContext.py
+  395  spark-submit mainKnitter.py 
+  396  vim pysparkHiveContext.py
+  397  spark-submit mainKnitter.py 
+  398  vim pysparkHiveContext.py
+  399  spark-submit mainKnitter.py 
+  400  vim pysparkHiveContext.py
+  401  spark-submit mainKnitter.py 
+  402  vim pysparkHiveContext.py
+  403  spark-submit mainKnitter.py 
+  404  vim pysparkHiveContext.py
+  405  spark-submit mainKnitter.py 
+  406  vim pysparkHiveContext.py
+  407  ls
+  408  cd ..
+  409  cd hive/
+  410  ls
+  411  cd vim createTable.sql 
+  412  vim createTable.sql 
+  413  cd ..
+  414  cd pysparkProject
+  415  ls
+  416  vim pysparkHiveContext.py
+  417  spark-submit pysparkHiveContext.py
+  418  vim pysparkHiveContext.py
+  419  spark-submit pysparkHiveContext.py
+  420  vim pysparkHiveContext.py
+  421  spark-submit pysparkHiveContext.py
+  422  cd ..
+  423  cd /
+  424  ls
+  425  cd hdpdata/
+  426  ls
+  427  mkdir akmsabbir
+  428  cd akmsabbir/
+  429  ls
+  430  cd ..
+  431  cd home/abdul.sabbir/
+  432  cp -r hive/ /hdpdata/akmsabbir/
+  433  ls /hdpdata/akmsabbir/
+  434  ls
+  435  cd pysparkProject
+  436  ls
+  437  vim pysparkHiveContext.py
+  438  spark-submit pysparkHiveContext.py
+  439  vim pysparkHiveContext.py
+  440  spark-submit pysparkHiveContext.py
+  441  vim pysparkHiveContext.py
+  442  spark-submit pysparkHiveContext.py
+  443  vim pysparkHiveContext.py
+  444  spark-submit pysparkHiveContext.py
+  445  vim pysparkHiveContext.py
+  446  spark-submit pysparkHiveContext.py
+  447  vim pysparkHiveContext.py
+  448  spark-submit pysparkHiveContext.py
+  449  vim mainKnitter.py 
+  450  vim pysparkHiveContext.py
+  451  spark-submit mainKnitter.py 
+  452  vim pysparkHiveContext.py
+  453  spark-submit mainKnitter.py 
+  454  vim pysparkHiveContext.py
+  455  spark-submit mainKnitter.py 
+  456  vim pysparkHiveContext.py
+  457  spark-submit mainKnitter.py 
+  458  vim pysparkHiveContext.py
+  459  spark-submit mainKnitter.py 
+  460  vim pysparkHiveContext.py
+  461  spark-submit mainKnitter.py 
+  462  ls
+  463  vim mainKnitter.py 
+  464  vim pysparkHiveContext.py
+  465  spark-submit mainKnitter.py 
+  466  vim pysparkHiveContext.py
+  467  spark-submit mainKnitter.py 
+  468  vim pysparkHiveContext.py
+  469  spark-submit mainKnitter.py 
+  470  vim pysparkHiveContext.py
+  471  spark-submit mainKnitter.py 
+  472  vim pysparkHiveContext.py
+  473  spark-submit mainKnitter.py 
+  474  vim pysparkHiveContext.py
+  475  spark-submit mainKnitter.py 
+  476  vim pysparkHiveContext.py
+  477  vim mainKnitter.py 
+  478  vim pysparkHiveContext.py
+  479  spark-submit mainKnitter.py 
+  480  vim pysparkHiveContext.py
+  481  spark-submit mainKnitter.py 
+  482  vim pysparkHiveContext.py
+  483  spark-submit mainKnitter.py 
+  484  vim pysparkHiveContext.py
+  485  spark-submit mainKnitter.py 
+  486  vim pysparkHiveContext.py
+  487  vim mainKnitter.py 
+  488  vim pysparkHiveContext.py
+  489  spark-submit mainKnitter.py 
+  490  vim pysparkHiveContext.py
+  491  spark-submit mainKnitter.py 
+  492  vim pysparkHiveContext.py
+  493  spark-submit mainKnitter.py 
+  494  vim pysparkHiveContext.py
+  495  spark-submit mainKnitter.py 
+  496  vim mainKnitter.py 
+  497  spark-submit mainKnitter.py 
+  498  vim mainKnitter.py 
+  499  spark-submit mainKnitter.py 
+  500  vim mainKnitter.py 
+  501  vim pysparkHiveContext.py
+  502  spark-submit mainKnitter.py 
+  503  vim mainKnitter.py 
+  504  spark-submit mainKnitter.py 
+  505  cd .
+  506  vim mainKnitter.py 
+  507  spark-submit mainKnitter.py 
+  508  vim mainKnitter.py 
+  509  spark-submit mainKnitter.py 
+  510  vim mainKnitter.py 
+  511  spark-submit mainKnitter.py 
+  512  vim /hdpdata/richard/dict_db/20170831/test.py 
+  513  hive
+  514  cd hive/
+  515  vim itemIdWithPartition.txt 
+  516  cd ..
+  517  cd pysparkH
+  518  ls
+  519  cd pysparkProject
+  520  ls
+  521  vim final_result2 
+  522  ls
+  523  vim final_result2 
+  524  vim final_result
+  525  ls
+  526  vim sortedItems.txt 
+  527  cd hive
+  528  ls
+  529  cd ..
+  530  cd hive/
+  531  ls
+  532  cd ..
+  533  ls
+  534  cd pysparkProject
+  535  ls
+  536  vim pysparkHiveContext.py
+  537  ;s
+  538  cd ..
+  539  ;s
+  540  ls
+  541  cd udf-development/
+  542  ls
+  543  vim build.sbt 
+  544  mysql
+  545  mysql -usabbir -pMy$ql
+  546  mysql -uroot -pMy$ql
+  547  mysql
+  548  mysql -uroot -pMy$qlD
+  549  mysql -usabbir -pMy$qlD
+  550  mysql -pMy$qlD
+  551  mysql  My$qlD
+  552  mysql  -pMy$qlD
+  553  mysql  -root -pMy$qlD
+  554  mysql  -uroot -pMy$qlD
+  555  mysql  -uroot -pMysqlD
+  556  mysql  -uroot -pMySqlD
+  557  mysql  -uroot
+  558  mysql  -uroot -p
+  559  mysql  -u
+  560  mysql  
+  561  mysql -uroot -pMysqlD
+  562  mysql -u rt -p
+  563  mysql -u root -p
+  564  s
+  565  ls
+  566  cd hive/
+  567  ls
+  568  vim createExternalTable.sql 
+  569  cd ..
+  570  ls
+  571  cd pysparkProject
+  572  ls
+  573  cd ..
+  574  ls
+  575  cd ..
+  576  ls
+  577  cd hdpdata/
+  578  ls
+  579  cd richard/dict_db/
+  580  ls
+  581  cd 20170831/
+  582  ls
+  583  vim test.py 
+  584  mysql -u root -p MysqlD
+  585  mysql -u root -p
+  586  mysql 
+  587  mysql -u root -pMysqlD
+  588  mysql -u root@localhost -pMysqlD
+  589  flush previleges
+  590  mysqladmin variables;
+  591  mysqladmin -h 'hostname'
+  592  flush-privileges
+  593  mysqladmin flush-privileges
+  594  mysqladmin -h 'hostname' version
+  595  ls
+  596  mysql -uroot -pMysqlD
+  597  mysql -uroot -proot
+  598  mysql
+  599  history
+  600  mysql -uroor -pMysqlD
+  601  mysql -uroot -pMysqlD
+  602  mysql -uroot -pMy$qlD
+  603  history
+  604  mysql -usabbir -pMysqlD
+  605  mysql -uroot -pMysqlD
+  606  history
+  607  ls
+  608  cd pysparkProject
+  609  ls
+  610  vimp pysparkHiveContext.py
+  611  vim pysparkHiveContext.py
+  612  ls
+  613  mysql -root -pMysqlD
+  614  mysql -rroot -pMysqlD
+  615  mysql -uroot -pMysqlD
+  616  mysql -uroot -pMy$qlD
+  617  mysql -uroot -pMySqlD
+  618  mysql -u root -p
+  619  ls
+  620  cd /hdpdata/richard/dict_db/20170831/
+  621  ks
+  622  ls
+  623  vim test.py 
+  624  cd /hdpdata/richard/dict_db/20170831/
+  625  ls
+  626  ls -ltr
+  627  ls
+  628  cd pysparkProject
+  629  ls
+  630  vim mainKnitter.py 
+  631  ls
+  632  ls
+  633  cd pysparkp
+  634  cd /hdpdata/richard/dict_db/20170831/
+  635  ls
+  636  vim dictstatus_db.py
+  637  ~ls
+  638  ls
+  639  cd pysparkProject
+  640  ls
+  641  cd ..
+  642  ls
+  643  cd ..
+  644  cd 
+  645  ls
+  646  cd ..
+  647  ls
+  648  cd ..
+  649  ls
+  650  cd hdpdata/
+  651  ls
+  652  cd richard/
+  653  ls
+  654  cd dict_db/
+  655  ks
+  656  ls
+  657  cd 20170831/
+  658  l
+  659  ls
+  660  cd spark-warehouse/
+  661  ls
+  662  cd ..
+  663  ls
+  664  vim dictstatus_db.py
+  665  ls
+  666  cd git_repos/
+  667  ls
+  668  cd dqMachine/
+  669  ls
+  670  cd ..
+  671  ls
+  672  cd udf-development/
+  673  ls
+  674  vim build.sbt 
+  675  ls
+  676  cd ..
+  677  ls
+  678  cp -r /hdpdata/richard/dict_db/20170906/ pysparkProject
+  679  ls
+  680  cd pysparkProject
+  681  ls
+  682  cd 20170906/
+  683  ls
+  684  cd ..
+  685  cd upcModule/
+  686  ls
+  687  cd ..
+  688  ls
+  689  cp /hdpdata/richard/dict_db/20170831/test.py upcModule/
+  690  ls
+  691  cd upcModule/
+  692  ls
+  693  vim test.py 
+  694  ls
+  695  cd ..
+  696  cd kpandran/
+  697  ls
+  698  cd ..
+  699  l
+  700  ls
+  701  cd home/abdul.sabbir/
+  702  ls
+  703  cd pyspark
+  704  cd pysparkProject
+  705  ls
+  706  cd ..
+  707  ls
+  708  cd ..
+  709  ls
+  710  cd hdpdata/
+  711  ls
+  712  cd richard/
+  713  ls
+  714  cd cd dict_db/
+  715  ls
+  716  cd dict_db/
+  717  ls
+  718  cd 20170831/
+  719  ls
+  720  vim dictstatus_db.py
+  721  cd /home/abdul.sabbir/
+  722  ls
+  723  cd hive/
+  724  ls
+  725  ls -ltr
+  726  vim createIndex.sql 
+  727  cd ..
+  728  cd pysparkProject
+  729  ls
+  730  vvim mainKnitter.py 
+  731  vim mainKnitter.py 
+  732  cd ..
+  733  cd /
+  734  cd hdpdata/
+  735  ls
+  736  cd richard/
+  737  ls
+  738  cd dict_db/
+  739  ls
+  740  cd 20170831/
+  741  ls
+  742  vim test.py 
+  743  ls
+  744  cd dictstatus_db.py
+  745  ls
+  746  vim dictstatus_db.py
+  747  ls
+  748  cd ..
+  749  cd 20170906/
+  750  ls
+  751  vim find_candidate_itemids.py 
+  752  ls
+  753  cd ..
+  754  ls
+  755  cd ..
+  756  ls
+  757  cd ..
+  758  ls
+  759  cd ..
+  760  ls
+  761  cd hdp
+  762  cd ..
+  763  cd hdpdata/
+  764  ls
+  765  cd richard/
+  766  ls
+  767  cd dict_db/
+  768  ls
+  769  cd 20170906/
+  770  ls
+  771  pwd
+  772  ls
+  773  vim find_candidate_itemids.py 
+  774  ls
+  775  vim find_candidate_itemids.py 
+  776  cd /hdpdata/test
+  777  cd ..
+  778  cd /hdpdata/test_karun/
+  779  ls
+  780  du -h
+  781  ls
+  782  cd ..
+  783  ls
+  784  cd ..
+  785  ls
+  786  cd home/
+  787  ls
+  788  cd abdul.sabbir/
+  789  ls
+  790   git
+  791  cd git_repos/
+  792  ls
+  793  cd dqMachine/
+  794  ls
+  795  cd ..
+  796  ls
+  797  cd dqMachine/
+  798  ls
+  799  sbt package
+  800  cd tarq
+  801  cd target/
+  802  ls
+  803  cd scala-2.11/
+  804  ls
+  805  cd ..
+  806  ls
+  807  cd ..
+  808  ls
+  809  cd src/
+  810  ls
+  811   main
+  812  ls
+  813  cd main/
+  814  ls
+  815  mkdir java
+  816  cd ..
+  817  ls
+  818  cd ..
+  819  ls
+  820  cd udf-development/
+  821  ls
+  822  cd src/
+  823  ls
+  824  cd main/
+  825  ls
+  826  cd java/
+  827  ls
+  828  cd net/
+  829  ls
+  830  cd diybigdata/
+  831  ls
+  832  cd udf/
+  833  ls
+  834  vim partitionDeterminer.java 
+  835  cd ..
+  836  ls
+  837  sbt test
+  838  sbt package
+  839  ls
+  840  cd target/
+  841  ls
+  842  rm dqmachine-udf-1.0-SNAPSHOT.jar 
+  843  ls
+  844  cd ..
+  845  ls
+  846  sbt package
+  847  cd target/
+  848  ls
+  849  cd ..
+  850  ls
+  851  vim build.sbt 
+  852  ls
+  853  cd src/
+  854  ls
+  855  cd tew
+  856  cd test/
+  857  ls
+  858  cd java/
+  859  ls
+  860  cd net/
+  861  ls
+  862  cd diybigdata/
+  863  ls
+  864  cd udf/
+  865  ls
+  866  vim partitionDeterminer_t.java 
+  867  cd ..
+  868  ls
+  869  cd ..
+  870  ls
+  871  cd ..
+  872  ls
+  873  cd pysparkProject
+  874  ls
+  875  vim pysparkHiveContext.py
+  876  hive
+  877  ls
+  878  cd git_repos/
+  879  ls
+  880  cd ..
+  881  ls
+  882  cd pysparkProject
+  883  ls
+  884  vim pysparkHiveContext.py
+  885  ls
+  886  cd pysparkProject
+  887  ls
+  888  cd upcModule/
+  889  l
+  890  ls
+  891  vim find_candidate_itemids.py
+  892  cd hive/
+  893  ls
+  894  vim odsposoutletitemInsert.sql 
+  895  vim insertInPosOutletWithPartition.sql 
+  896  show [A
+  897  vim insertInPosOutletWithPartition.sql 
+  898  hive -f createTable.sql 
+  899  vim createTable.sql 
+  900  vim insertInPosOutletWithPartition.sql 
+  901  cd ..
+  902  cd udf-development/
+  903  ls
+  904  cd src/
+  905  cd ..
+  906  vim src/main/java/net/diybigdata/udf/partitionDeterminer.java 
+  907  ls
+  908  build package
+  909  sbt package
+  910  vim src/main/java/net/diybigdata/udf/partitionDeterminer.java 
+  911  sbt package
+  912  vim src/main/java/net/diybigdata/udf/partitionDeterminer.java 
+  913  sbt package
+  914  vim src/main/java/net/diybigdata/udf/partitionDeterminer.java 
+  915  sbt package
+  916  vim src/main/java/net/diybigdata/udf/partitionDeterminer.java 
+  917  sbt package
+  918  vim src/main/java/net/diybigdata/udf/partitionDeterminer.java 
+  919  sbt package
+  920  vim src/main/java/net/diybigdata/udf/partitionDeterminer.java 
+  921  sbt package
+  922  vim src/main/java/net/diybigdata/udf/partitionDeterminer.java 
+  923  sbt package
+  924  vim src/main/java/net/diybigdata/udf/partitionDeterminer.java 
+  925  sbt package
+  926  cd git_repos/
+  927  ls
+  928  cd dqMachine/
+  929  ld
+  930  ls
+  931  cd src/
+  932  ls
+  933  cd main/
+  934  l
+  935  ls
+  936  cd python/
+  937  ls
+  938  mkdir upcModule
+  939  ls
+  940  cd ..
+  941  ls
+  942  cd ..
+  943  ls
+  944  d ..
+  945  cd ..
+  946  ls
+  947  cd ..
+  948  ls
+  949  cd ..
+  950  ls
+  951  cd udf-development/
+  952  ls
+  953  vim build.sbt 
+  954  cd src/
+  955  ls
+  956  main
+  957  ls
+  958  cd main/
+  959  ls
+  960  cd java/
+  961  ls
+  962  cp -r net/ ../../../../git_repos/dqMachine/src/main/java/
+  963  cd ..
+  964  ls
+  965  cd ..
+  966  ls
+  967  cd ..
+  968  ls
+  969  cd target/
+  970  ls
+  971  cd ..
+  972  ls
+  973  cd ..
+  974  ls
+  975  cd pysparkProject
+  976  ls
+  977  hive
+  978  ls
+  979  cd pysparkProject
+  980  ls
+  981  vim mainKnitter.py 
+  982  ls
+  983  hive
+  984  cd udf-development/
+  985  ls
+  986  cd src/
+  987  ls
+  988  cd test/
+  989  ls
+  990  vim java/net/diybigdata/udf/partitionDeterminer_t.java
+  991  ccd ..
+  992  cd ..
+  993  ls
+  994  vim main/java/net/diybigdata/udf/partitionDeterminer.java 
+  995  ls
+  996  cd hive/
+  997  ls
+  998  vim createTable.sql 
+  999  hive -f createTable.sql 
+ 1000  vim insertInPosOutletWithPartition.sql 
+ 1001  ls
+ 1002  cd udf-development/
+ 1003  ls
+ 1004  cd src/
+ 1005  ls
+ 1006  cd main/
+ 1007  ls
+ 1008  cd java/
+ 1009  ls
+ 1010  cd net/
+ 1011  ls
+ 1012  cd diybigdata/udf/
+ 1013  ls
+ 1014  vi mpar
+ 1015  vim partitionDeterminer.java 
+ 1016  top
+ 1017  ls
+ 1018  cd ..
+ 1019  ls
+ 1020  cd udf/
+ 1021  ls
+ 1022  source ~/.bashrc 
+ 1023  cd ..
+ 1024  ls
+ 1025  cd ..
+ 1026  ls
+ 1027  cd ..
+ 1028  ls
+ 1029  sbt test
+ 1030  ls
+ 1031  sbt package
+ 1032  ls
+ 1033  cd target/
+ 1034  ls
+ 1035  rm dqmachine-udf-1.0-SNAPSHOT.jar 
+ 1036  cd .
+ 1037  cd ..
+ 1038  sbt package
+ 1039  sbt test
+ 1040  vim sbt
+ 1041  ls
+ 1042  vim build.sbt 
+ 1043  build package
+ 1044  sbt test
+ 1045  ls
+ 1046  cd ..
+ 1047  cd hive/
+ 1048  vim itemIdWithPartition.txt 
+ 1049  history
+ 1050  history > testing

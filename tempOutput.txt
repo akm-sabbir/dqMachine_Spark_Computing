@@ -1,0 +1,269 @@
+main function for this pyspark project is going to be initiated soon .....
+current working directory is :/hdpdata/pysparkProject/dqMachine
+Operating system name : Linux
+Machine Name : lpwhdqdnp01.npd.com
+operating system version : 3.10.0-693.5.2.el7.x86_64
+last access time #1 SMP Fri Oct 13 10:46:25 EDT 2017
+operating system architecture : x86_64
+mysql
+hivedb
+['dictionary_frontend', 'PACEDICTIONARY']
+['dqdictionaryhivedb']
+['REFS']
+['DICTIONARY_STATUS', 'POIID_DETAILS', 'TIMETRACKER']
+['uniodsposoutletwpacid_int', 'odsitemswp', 'odsposoutletitemswp']
+set([160, 161, 66, 70, 162, 138, 76, 77, 78, 174, 152, 179, 53, 55, 56, 57, 58, 59, 61])
+configuration class
+starting detecting duplicates from history
+Usage: snapshotdetector number of days3
+103
+05-09-2018 21:04:02
+20185921 ['hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00149.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00147.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00146.bz2']
+20184913 ['hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00031.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00029.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00028.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00027.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00025.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00024.bz2']
+201842414 ['hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00096.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00094.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00093.bz2']
+20185721 ['hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00141.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00139.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00138.bz2']
+20184523 ['hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00023.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00021.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00020.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00019.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00017.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00016.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00015.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00014.bz2']
+20185416 ['hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00130.bz2']
+201841213 ['hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00040.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00038.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00037.bz2']
+201841216 ['hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00044.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00042.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00041.bz2']
+201841016 ['hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00036.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00034.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00033.bz2']
+201842214 ['hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00088.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00086.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00085.bz2']
+201851021 ['hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00148.bz2']
+201842314 ['hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00092.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00090.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00089.bz2']
+201841914 ['hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00076.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00074.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00073.bz2']
+201843016 ['hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00118.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00116.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00115.bz2']
+20185821 ['hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00145.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00143.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00142.bz2']
+201841716 ['hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00068.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00066.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00065.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00064.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00062.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00061.bz2']
+20185716 ['hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00137.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00135.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00134.bz2']
+201841819 ['hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00072.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00070.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00069.bz2']
+201842520 ['hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00104.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00102.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00101.bz2']
+201842514 ['hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00100.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00098.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00097.bz2']
+20185116 ['hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00122.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00119.bz2']
+201841615 ['hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00060.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00058.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00057.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00056.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00054.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00053.bz2']
+201841611 ['hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00052.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00050.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00049.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00048.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00046.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00045.bz2']
+201842014 ['hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00080.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00078.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00077.bz2']
+201842114 ['hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00084.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00082.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00081.bz2']
+20184522 ['hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00011.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00010.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00008.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00007.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00006.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00003.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00002.bz2']
+20185216 ['hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00126.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00123.bz2']
+20184521 ['hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00000.bz2']
+201842616 ['hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00108.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00106.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00105.bz2']
+201842716 ['hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00112.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00110.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00109.bz2']
+start reading snapshots
+['2018511', '2018510', '201859']
+Get the filtered files to read
+['hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00149.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00148.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00147.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00146.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00122.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00119.bz2']
+start reading snapshot files
+File name: hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00149.bz2
+File name: hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00148.bz2
+File name :hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00148.bz2
+There is a column mismatch ignoring rdd
+File name: hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00147.bz2
+File name :hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00147.bz2
+File name: hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00146.bz2
+File name :hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00146.bz2
+Total data inside the snapshot rdd: 273876
+writing down snapshots
+Start detecting overlap data and return uniques
+executing file src/main/python/dictionary/fileSource/hivecreateScripts/createExternalTable.sql
+executing command: ['SET hive.execution.engine=tez\n', "SET odsposoutletitem_input ='/npd/s_test2/snapshotFilestemp/'\n", 'drop table if exists dqdictionaryhivedb.maintempTableext\n', "create external table dqdictionaryhivedb.maintempTableext(poi_id bigint,business_id int,posoutlet int,outletdivision int ,outletdepartment int,outletsubdepartment int,outletclass int,outletsubclass int,outletbrand string,outletitemnumber string,outletdescription string,outletbrandmatch string,outletitemnumbermatch string,outletdescriptionmatch string,sku int,manufacturercodetype string,manufacturercode bigint,zzzppmonthfrom int ,zzzppmonthto int, zzzppmonthlastused int,itemid bigint,itemtype string,price int,manufacturercodestatus int,loadid int,status int,added timestamp,updated timestamp,ppweekfrom int,ppweekto int,ppweeklastused int,matched_country_code int,previous_poiid int,include_data_ppmonthfrom int,include_data_ppweekfrom int,manufacturercodematch int,skumatch int,unitofmeasure int,packsize int,manufacturername string,manufacturernamematch string,privatelabel string,outletdescriptionsupplement string,total_confidence_score int, parent_poiid int,parent_poiid_status string) row format delimited fields terminated by '|' lines terminated by '\\n' location ${hiveconf:odsposoutletitem_input}\n", 'ALTER TABLE dqdictionaryhivedb.maintempTableext SET SERDEPROPERTIES ("timestamp.formats"="yyyy-MM-dd\'T\'HH:mm:ss.SSSZ")\n']
+Executing command: SET hive.execution.engine=tez
+
+Executing command: SET odsposoutletitem_input ='/npd/s_test2/snapshotFilestemp/'
+
+Executing command: drop table if exists dqdictionaryhivedb.maintempTableext
+
+Executing command: create external table dqdictionaryhivedb.maintempTableext(poi_id bigint,business_id int,posoutlet int,outletdivision int ,outletdepartment int,outletsubdepartment int,outletclass int,outletsubclass int,outletbrand string,outletitemnumber string,outletdescription string,outletbrandmatch string,outletitemnumbermatch string,outletdescriptionmatch string,sku int,manufacturercodetype string,manufacturercode bigint,zzzppmonthfrom int ,zzzppmonthto int, zzzppmonthlastused int,itemid bigint,itemtype string,price int,manufacturercodestatus int,loadid int,status int,added timestamp,updated timestamp,ppweekfrom int,ppweekto int,ppweeklastused int,matched_country_code int,previous_poiid int,include_data_ppmonthfrom int,include_data_ppweekfrom int,manufacturercodematch int,skumatch int,unitofmeasure int,packsize int,manufacturername string,manufacturernamematch string,privatelabel string,outletdescriptionsupplement string,total_confidence_score int, parent_poiid int,parent_poiid_status string) row format delimited fields terminated by '|' lines terminated by '\n' location ${hiveconf:odsposoutletitem_input}
+
+Executing command: ALTER TABLE dqdictionaryhivedb.maintempTableext SET SERDEPROPERTIES ("timestamp.formats"="yyyy-MM-dd'T'HH:mm:ss.SSSZ")
+
+number of data returned: 0
+++
+||
+++
+++
+
+executing file src/main/python/dictionary/fileSource/hivejoinScripts/removeDups.sql
+executing command: ['SET mapreduce.map.memory.mb=8000\n', 'SET mapreduce.map.java.opts=-Xmx6000m\n', 'SET mapreduce.reduce.memory.mb=8000\n', 'SET mapreduce.reduce.java.opts=-Xmx6200m\n', 'SET hive.tez.container.size=10240\n', 'SET hive.tez.java.opts=-Xmx8192m\n', 'SET hive.exec.dynamic.partition.mode=nonstrict\n', 'SET hive.exec.max.dynamic.partitions=100000\n', 'SET hive.exec.max.dynamic.partitions.pernode=100000\n', 'SET hive.warehouse.subdir.inherit.perms=False\n', 'select poi_id, cast(max(distinct updated) as string) as updated from dqdictionaryhivedb.maintempTableext group by poi_id \n']
+Executing command: SET mapreduce.map.memory.mb=8000
+
+Executing command: SET mapreduce.map.java.opts=-Xmx6000m
+
+Executing command: SET mapreduce.reduce.memory.mb=8000
+
+Executing command: SET mapreduce.reduce.java.opts=-Xmx6200m
+
+Executing command: SET hive.tez.container.size=10240
+
+Executing command: SET hive.tez.java.opts=-Xmx8192m
+
+Executing command: SET hive.exec.dynamic.partition.mode=nonstrict
+
+Executing command: SET hive.exec.max.dynamic.partitions=100000
+
+Executing command: SET hive.exec.max.dynamic.partitions.pernode=100000
+
+Executing command: SET hive.warehouse.subdir.inherit.perms=False
+
+Executing command: select poi_id, cast(max(distinct updated) as string) as updated from dqdictionaryhivedb.maintempTableext group by poi_id 
+
+number of data returned: 273877
++-----------+-------------------+
+|     poi_id|            updated|
++-----------+-------------------+
+|10562670408|2018-05-08 14:51:23|
+|10426924341|2018-05-08 14:51:23|
+|10104063770|2018-05-08 14:51:23|
+| 9966479094|2018-05-08 13:46:02|
+| 9158938331|2018-05-08 13:45:48|
+| 9213315371|2018-05-08 13:46:28|
+|10644291445|2018-05-08 13:46:44|
+|10644291484|2018-05-08 13:46:35|
+|10678052890|2018-05-08 13:46:41|
+|10441416359|2018-05-08 13:46:34|
+|10727581199|2018-05-08 13:46:15|
+|10565943934|2018-05-08 13:46:47|
+|10771195613|2018-05-08 13:46:01|
+|10787464680|2018-05-08 13:46:21|
+|10765292985|2018-05-08 13:46:01|
+|10812263311|2018-05-08 14:45:15|
+|10812265339|2018-05-08 14:45:16|
+|10812271632|2018-05-08 14:45:15|
+|10812276958|2018-05-08 14:45:11|
+|10812261536|2018-05-08 14:45:12|
++-----------+-------------------+
+only showing top 20 rows
+
+Wrting down unique rdd data
++-----------+-------------------+
+|     poi_id|            updated|
++-----------+-------------------+
+|10562670408|2018-05-08 14:51:23|
+|10426924341|2018-05-08 14:51:23|
+|10104063770|2018-05-08 14:51:23|
+| 9966479094|2018-05-08 13:46:02|
+| 9158938331|2018-05-08 13:45:48|
+| 9213315371|2018-05-08 13:46:28|
+|10644291445|2018-05-08 13:46:44|
+|10644291484|2018-05-08 13:46:35|
+|10678052890|2018-05-08 13:46:41|
+|10441416359|2018-05-08 13:46:34|
+|10727581199|2018-05-08 13:46:15|
+|10565943934|2018-05-08 13:46:47|
+|10771195613|2018-05-08 13:46:01|
+|10787464680|2018-05-08 13:46:21|
+|10765292985|2018-05-08 13:46:01|
+|10812263311|2018-05-08 14:45:15|
+|10812265339|2018-05-08 14:45:16|
+|10812271632|2018-05-08 14:45:15|
+|10812276958|2018-05-08 14:45:11|
+|10812261536|2018-05-08 14:45:12|
++-----------+-------------------+
+only showing top 20 rows
+
+executing file src/main/python/dictionary/fileSource/hivecreateScripts/createsnapshotsUnique.sql
+executing command: ["SET odsposoutletitem_input = '/npd/s_test2/snapshots/withoutdups/'\n", 'drop table if exists dqdictionaryhivedb.uniquesnapshotstempTableext\n', "create external table dqdictionaryhivedb.uniquesnapshotstempTableext(poi_id bigint,updated string) row format delimited fields terminated by '|' lines terminated by '\\n' location ${hiveconf:odsposoutletitem_input}\n"]
+Executing command: SET odsposoutletitem_input = '/npd/s_test2/snapshots/withoutdups/'
+
+Executing command: drop table if exists dqdictionaryhivedb.uniquesnapshotstempTableext
+
+Executing command: create external table dqdictionaryhivedb.uniquesnapshotstempTableext(poi_id bigint,updated string) row format delimited fields terminated by '|' lines terminated by '\n' location ${hiveconf:odsposoutletitem_input}
+
+number of data returned: 0
+++
+||
+++
+++
+
+executing file src/main/python/dictionary/fileSource/hivejoinScripts/performjoinUniquesnapshots.sql
+executing command: ['SET mapreduce.map.memory.mb=6000\n', 'SET mapreduce.map.java.opts=-Xmx9000m\n', 'SET mapreduce.reduce.memory.mb=9000\n', 'SET mapreduce.reduce.java.opts=-Xmx7200m\n', 'SET hive.tez.container.size=10240\n', 'SET hive.tez.java.opts=-Xmx8192m\n', 'SET hive.exec.dynamic.partition.mode=nonstrict\n', 'SET hive.exec.max.dynamic.partitions=100000\n', 'SET hive.exec.max.dynamic.partitions.pernode=100000\n', 'SET hive.exec.compress.output=false\n', 'select distinct dq.poi_id as poi_id,dq.business_id as business_id,dq.posoutlet as posoutlet,dq.outletdivision as outletdivision,dq.outletdepartment as outletdepartment, dq.outletsubdepartment as outletsubdepartment, dq.outletclass as outletclass,dq.outletsubclass as outletsubclass,dq.outletbrand as outletbrand,dq.outletitemnumber as outletitemnumber ,dq.outletdescription as outletdescription,dq.outletbrandmatch as outletbrandmatch,dq.outletitemnumbermatch as outletitemnumbermatch ,dq.outletdescriptionmatch,dq.sku as sku,dq.manufacturercodetype as manufacturercodetype, dq.manufacturercode as manufacturercode,dq.zzzppmonthfrom as zzzppmonthfrom,dq.zzzppmonthto as zzzppmonthto, dq.zzzppmonthlastused as zzzppmonthlastused, dq.itemid as itemid,dq.itemtype as itemtype ,dq.price as price ,dq.manufacturercodestatus as manufacturercodestatus ,dq.loadid as loadid,dq.status as status,dq.added as added, dq.updated as updated ,dq.ppweekfrom as ppweekfrom, dq.ppweekto as ppweekto,dq.ppweeklastused as ppweeklastused,dq.matched_country_code as matched_country_code,dq.previous_poiid as previous_poiid,dq.include_data_ppmonthfrom as include_data_ppmonthfrom ,dq.include_data_ppweekfrom as include_data_ppweekfrom,dq.manufacturercodematch as manufacturercodematch ,dq.skumatch as skumatch,dq.unitofmeasure as unitofmeasure,dq.packsize as packsize, dq.manufacturername as manufacturername,dq.manufacturernamematch as manufacturernamematch,dq.privatelabel as privatelabel,dq.outletdescriptionsupplement as outletdescriptionsupplement,dq.total_confidence_score as total_confidence_score,dq.parent_poiid as parent_poiid ,dq.parent_poiid_status as parent_poiid_status from dqdictionaryhivedb.maintempTableext as dq inner join dqdictionaryhivedb.uniquesnapshotstempTableext as temptab on (dq.poi_id = temptab.poi_id) where abs(unix_timestamp(cast(dq.updated as string)) - unix_timestamp(cast(temptab.updated as string) ))   = 0\n']
+Executing command: SET mapreduce.map.memory.mb=6000
+
+Executing command: SET mapreduce.map.java.opts=-Xmx9000m
+
+Executing command: SET mapreduce.reduce.memory.mb=9000
+
+Executing command: SET mapreduce.reduce.java.opts=-Xmx7200m
+
+Executing command: SET hive.tez.container.size=10240
+
+Executing command: SET hive.tez.java.opts=-Xmx8192m
+
+Executing command: SET hive.exec.dynamic.partition.mode=nonstrict
+
+Executing command: SET hive.exec.max.dynamic.partitions=100000
+
+Executing command: SET hive.exec.max.dynamic.partitions.pernode=100000
+
+Executing command: SET hive.exec.compress.output=false
+
+Executing command: select distinct dq.poi_id as poi_id,dq.business_id as business_id,dq.posoutlet as posoutlet,dq.outletdivision as outletdivision,dq.outletdepartment as outletdepartment, dq.outletsubdepartment as outletsubdepartment, dq.outletclass as outletclass,dq.outletsubclass as outletsubclass,dq.outletbrand as outletbrand,dq.outletitemnumber as outletitemnumber ,dq.outletdescription as outletdescription,dq.outletbrandmatch as outletbrandmatch,dq.outletitemnumbermatch as outletitemnumbermatch ,dq.outletdescriptionmatch,dq.sku as sku,dq.manufacturercodetype as manufacturercodetype, dq.manufacturercode as manufacturercode,dq.zzzppmonthfrom as zzzppmonthfrom,dq.zzzppmonthto as zzzppmonthto, dq.zzzppmonthlastused as zzzppmonthlastused, dq.itemid as itemid,dq.itemtype as itemtype ,dq.price as price ,dq.manufacturercodestatus as manufacturercodestatus ,dq.loadid as loadid,dq.status as status,dq.added as added, dq.updated as updated ,dq.ppweekfrom as ppweekfrom, dq.ppweekto as ppweekto,dq.ppweeklastused as ppweeklastused,dq.matched_country_code as matched_country_code,dq.previous_poiid as previous_poiid,dq.include_data_ppmonthfrom as include_data_ppmonthfrom ,dq.include_data_ppweekfrom as include_data_ppweekfrom,dq.manufacturercodematch as manufacturercodematch ,dq.skumatch as skumatch,dq.unitofmeasure as unitofmeasure,dq.packsize as packsize, dq.manufacturername as manufacturername,dq.manufacturernamematch as manufacturernamematch,dq.privatelabel as privatelabel,dq.outletdescriptionsupplement as outletdescriptionsupplement,dq.total_confidence_score as total_confidence_score,dq.parent_poiid as parent_poiid ,dq.parent_poiid_status as parent_poiid_status from dqdictionaryhivedb.maintempTableext as dq inner join dqdictionaryhivedb.uniquesnapshotstempTableext as temptab on (dq.poi_id = temptab.poi_id) where abs(unix_timestamp(cast(dq.updated as string)) - unix_timestamp(cast(temptab.updated as string) ))   = 0
+
+number of data returned: 273876
++-----------+-----------+---------+--------------+----------------+-------------------+-----------+--------------+--------------------+----------------+--------------------+--------------------+---------------------+----------------------+-------+--------------------+----------------+--------------+------------+------------------+--------+--------+-----+----------------------+-------+------+-------------------+-------------------+----------+--------+--------------+--------------------+--------------+------------------------+-----------------------+---------------------+--------+-------------+--------+----------------+---------------------+------------+---------------------------+----------------------+------------+-------------------+
+|     poi_id|business_id|posoutlet|outletdivision|outletdepartment|outletsubdepartment|outletclass|outletsubclass|         outletbrand|outletitemnumber|   outletdescription|    outletbrandmatch|outletitemnumbermatch|outletdescriptionmatch|    sku|manufacturercodetype|manufacturercode|zzzppmonthfrom|zzzppmonthto|zzzppmonthlastused|  itemid|itemtype|price|manufacturercodestatus| loadid|status|              added|            updated|ppweekfrom|ppweekto|ppweeklastused|matched_country_code|previous_poiid|include_data_ppmonthfrom|include_data_ppweekfrom|manufacturercodematch|skumatch|unitofmeasure|packsize|manufacturername|manufacturernamematch|privatelabel|outletdescriptionsupplement|total_confidence_score|parent_poiid|parent_poiid_status|
++-----------+-----------+---------+--------------+----------------+-------------------+-----------+--------------+--------------------+----------------+--------------------+--------------------+---------------------+----------------------+-------+--------------------+----------------+--------------+------------+------------------+--------+--------+-----+----------------------+-------+------+-------------------+-------------------+----------+--------+--------------+--------------------+--------------+------------------------+-----------------------+---------------------+--------+-------------+--------+----------------+---------------------+------------+---------------------------+----------------------+------------+-------------------+
+|10682523440|         53|    29560|          null|              56|               null|         77|          null|REACTION/KENNETH ...|       RL07103LE|BLAC  VERY CLEARB...|REACTION/KENNETH ...|            RL07103LE|  BLAC  VERY CLEARB...|   7103|                 UPC|    883465116536|           575|        9999|               575|60686593|  single| null|                     0| 986439|     0|2017-11-14 03:53:13|2018-05-08 13:45:42|      2497|    9999|          2522|              217123|          null|                    null|                   null|                 null|    7103|         null|    null|            null|                    *|           2|       RL07103 MODERN WO...|                     0|           0|                  0|
+| 9799964301|         55|    29696|          null|             328|               null|      32820|          null|   JASCO PRODUCTS CO|           25599|      HDMI CABLE, 3'|   JASCO PRODUCTS CO|                25599|        HDMI CABLE, 3'| 441335|                 UPC|     30878255998|           539|        9999|               539| 2210638|  single| null|                     0| 637979|     0|2014-11-26 11:34:26|2018-05-08 13:45:22|      2342|    9999|          2522|              233582|          null|                    null|                   null|                 null|  441335|         null|    null|            null|                 null|           2|          LIVINGELECTRONICS|                     0|           0|                  0|
+| 9946690771|         55|    29696|          null|             251|               null|      25103|          null|          TOMTOM INC|     1EN4.052.11|TOMTOM VIA 1415M ...|          TOMTOM INC|          1EN4.052.11|  TOMTOM VIA 1415M ...| 354041|                 UPC|    636926073813|           545|        9999|               545| 2271680|  single| null|                     0| 699365|     0|2015-05-19 15:59:44|2018-05-08 13:45:37|      2367|    9999|          2522|              233582|          null|                    null|                   null|                 null|  354041|         null|    null|            null|                 null|           2|       AUTOMOTIVECAR CAR...|                     0|           0|                  0|
+|10023768437|         56|    29696|          null|             312|               null|      31268|          null|    CUISINART CANADA|         CSB-85C|CUISINART HAND BL...|    CUISINART CANADA|               CSB85C|  CUISINART HAND BL...| 431929|                 UPC|     68459234056|           549|        9999|               549|30007071|  single| null|                     0| 751447|     0|2015-09-29 13:19:49|2018-05-08 13:45:23|      2386|    9999|          2522|              233582|          null|                    null|                   null|                 null|  431929|         null|    null|            null|                    *|           2|       LIVINGKITCHEN & P...|                     0|           0|                  0|
+|10300216589|         58|    29696|          null|             921|               null|      92145|          null|     LEGO CANADA LTD|         6137209|LEGO CITY SERVICE...|     LEGO CANADA LTD|              6137209|  LEGO CITY SERVICE...| 509086|                 UPC|    673419250030|           562|        9999|               562|85357733|  single| null|                     0| 854415|     0|2016-10-25 16:05:56|2018-05-08 13:46:34|      2442|    9999|          2522|              233582|          null|                    null|                   null|                 null|  509086|         null|    null|            null|                    *|           2|       SEASONAL & GARDEN...|                     0|           0|                  0|
+|10288243916|         55|    29696|          null|             187|               null|      18704|          null|ZHEJIANG CANWELL INT|        IN180245|AUTOTRENDS LARGE ...|ZHEJIANG CANWELL INT|             IN180245|  AUTOTRENDS LARGE ...| 355257|                 EAN|   6943536305475|           562|        9999|               562| 2475348|  single| null|                     0| 852576|     0|2016-10-18 16:08:35|2018-05-08 13:45:26|      2441|    9999|          2522|              233582|          null|                    null|                   null|                 null|  355257|         null|    null|            null|                    *|           1|       AUTOMOTIVECAR CAR...|                     0|           0|                  0|
+|10288244036|         55|    29696|          null|             328|               null|      32830|          null| AUDIOVOX CANADA LTD|      CRCRBB04GR|RCA 4 DEVICE BIG ...| AUDIOVOX CANADA LTD|           CRCRBB04GR|  RCA 4 DEVICE BIG ...| 453301|                 UPC|     44476114076|           562|        9999|               562| 2341866|  single| null|                     0| 852576|     0|2016-10-18 16:08:35|2018-05-08 13:46:23|      2441|    9999|          2522|              233582|          null|                    null|                   null|                 null|  453301|         null|    null|            null|                    *|           2|          LIVINGELECTRONICS|                     0|           0|                  0|
+|10288242642|         55|    29696|          null|             183|               null|      18356|          null|    GEM SEN HOLDINGS|        KK43C104|KICKER COMPS 10" ...|    GEM SEN HOLDINGS|             KK43C104|  KICKER COMPS 10" ...| 350310|                 UPC|    713034078630|           562|        9999|               562| 2535672|  single| null|                     0| 852576|     0|2016-10-18 16:08:35|2018-05-08 13:46:22|      2441|    9999|          2522|              233582|          null|                    null|                   null|                 null|  350310|         null|    null|            null|                    *|           2|       AUTOMOTIVECAR CAR...|                     0|           0|                  0|
+|10614066111|         58|    29696|          null|             859|               null|      85925|          null|           ZURU INC.|            5646|ZURU X-SHOT WATER...|           ZURU INC.|                 5646|  ZURU X-SHOT WATER...| 813535|                 UPC|    845218015886|           572|        9999|               572|85523978|  single| null|                     0| 954656|     0|2017-08-08 14:21:44|2018-05-08 13:46:24|      2483|    9999|          2522|              233582|          null|                    null|                   null|                 null|  813535|         null|    null|            null|                    *|           2|       SEASONAL & GARDEN...|                     0|           0|                  0|
+|10441415722|         56|    29696|          null|             584|               null|      58405|          null|HELEN OF TROY COMERC|        HCE840BC|HONEYWELL DUAL HE...|HELEN OF TROY COMERC|             HCE840BC|  HONEYWELL DUAL HE...| 435102|                 UPC|     92926118402|           505|        9999|               505|30315809|  single| null|                     0| 891393|     0|2017-02-14 14:35:39|2018-05-08 13:46:18|         0|    9999|          2522|              233582|             0|                    null|                   null|                 null|  435102|         null|    null|            null|                 null|        null|       FIXINGHOME ENVIRO...|                     0|           0|                  0|
+|10460706111|         56|    29696|          null|             308|               null|      30802|          null|      OBUS FORME LTD|    FB-50D-1PKCA|    HOMEDICS FOOTSPA|      OBUS FORME LTD|           FB50D1PKCA|      HOMEDICS FOOTSPA|2999087|                 UPC|     31262051776|           567|        9999|               567|30271139|  single| null|                     0| 899445|     0|2017-03-14 15:52:52|2018-05-08 13:45:58|      2462|    9999|          2522|              233582|          null|                    null|                   null|                 null| 2999087|         null|    null|            null|                    *|           2|       LIVINGKITCHEN & P...|                     0|           0|                  0|
+|10475101914|         58|    29696|          null|             921|               null|      92145|          null|     LEGO CANADA LTD|         6136859|LEGO STAR WARS SE...|     LEGO CANADA LTD|              6136859|  LEGO STAR WARS SE...| 505277|                 UPC|    673419248099|           567|        9999|               567|85403764|  single| null|                     0| 903780|     0|2017-03-28 15:29:58|2018-05-08 13:46:47|      2464|    9999|          2522|              233582|          null|                    null|                   null|                 null|  505277|         null|    null|            null|                    *|           2|       SEASONAL & GARDEN...|                     0|           0|                  0|
+|10475102056|         55|    29696|          null|             306|               null|      30608|          null|  DAIWA DISTRIBUTION|            F303|     WIRELESS ROUTER|  DAIWA DISTRIBUTION|                 F303|       WIRELESS ROUTER| 691903|                 UPC|    722868807415|           567|        9999|               567| 2250327|  single| null|                     0| 903780|     0|2017-03-28 15:29:58|2018-05-08 13:45:47|      2464|    9999|          2522|              233582|          null|                    null|                   null|                 null|  691903|         null|    null|            null|                    *|           2|          LIVINGELECTRONICS|                     0|           0|                  0|
+|10724285530|         66|    29696|          null|             412|               null|      41211|          null|  WORLD KITCHEN INC.|         1077748|CORELLE SQ RD. WH...|                null|                 null|                  null|1424004|                 UPC|            null|           541|        9999|               552|51420625|  single| null|                     0|1002467|     0|2018-01-10 19:27:48|2018-05-08 13:46:00|      2349|    9999|          2522|              233582|          null|                    null|                   null|                 null|    null|         null|    null|            null|                    *|           2|       LIVINGKITCHEN & P...|                     0|           0|                  0|
+|10724285313|         66|    29696|          null|             435|               null|      43511|          null|    LIBBEY GLASS INC|            5020|LIBBEY BEER MUG 1...|                null|                 null|                  null| 426595|                 UPC|            null|           541|        9999|               552|51097002|  single| null|                     0|1002467|     0|2018-01-10 19:27:48|2018-05-08 13:46:36|      2349|    9999|          2522|              233582|          null|                    null|                   null|                 null|    null|         null|    null|            null|                    *|           2|       LIVINGKITCHEN & P...|                     0|           0|                  0|
+|10725142952|         66|    29696|          null|             406|               null|      40603|          null|           CORE HOME|      17433PK-CT|MANNA 17OZ BOTTLE...|                null|                 null|                  null|3990004|                 UPC|            null|           574|        9999|               575|51412269|  single| null|                     0|1003296|     0|2018-01-12 15:32:19|2018-05-08 13:46:15|      2495|    9999|          2522|              233582|          null|                    null|                   null|                 null|    null|         null|    null|            null|                    *|           2|       LIVINGKITCHEN & P...|                     0|           0|                  0|
+|10725141956|         66|    29696|          null|             200|               null|      20080|          null|     CONAIR CONSUMER|    CIB670-28GMC|CUISINART SELF BA...|                null|                 null|                  null|1422619|                 UPC|     68459170804|           568|        9999|               575|51420369|  single| null|                     0|1003268|     0|2018-01-12 15:32:19|2018-05-08 13:46:32|      2467|    9999|          2522|              233582|          null|                    null|                   null|                 null|    null|         null|    null|            null|                    *|           2|       LIVINGKITCHEN & P...|                     0|           0|                  0|
+|10725142576|         66|    29696|          null|             400|               null|      40020|          null|          LTB CANADA|    KA1SSTK7ECAN|KITCHEN AID S/S 7...|                null|                 null|                  null|1425473|                 UPC|     50081177498|           541|        9999|               575|51420373|  single| null|                     0|1003136|     0|2018-01-12 15:32:19|2018-05-08 13:45:48|      2349|    9999|          2522|              233582|          null|                    null|                   null|                 null|    null|         null|    null|            null|                    *|           2|       LIVINGKITCHEN & P...|                     0|           0|                  0|
+|10749809949|         58|    29696|          null|             918|               null|      91835|          null|PTX PERFORMANCE PROD|     NUM03043BRY|NUM NOMS ADJUSTAB...|PTX PERFORMANCE PROD|          NUM03043BRY|  NUM NOMS ADJUSTAB...| 845800|                 UPC|    812892023490|           577|        9999|               577|85669620|  single| null|                     0|1010581|     0|2018-02-06 14:53:38|2018-05-08 13:45:53|      2509|    9999|          2522|              233582|          null|                    null|                   null|                 null|  845800|         null|    null|            null|                    *|           2|       PLAYINGTEAM SPORT...|                     0|           0|                  0|
+| 9728621387|         66|    29696|          null|             401|               null|      40111|          null|           CORE HOME|        TIRE1000|FOR LIVING 6 PIEC...|           CORE HOME|             TIRE1000|  FOR LIVING 6 PIEC...|1420463|                 UPC|            null|             0|        9999|                 0|51421733|  single| null|                     0| 615786|     0|2014-09-03 12:33:12|2018-05-08 13:45:43|         0|    9999|          2522|              233582|             0|                       0|                      0|                 null| 1420463|         null|    null|            null|                 null|           1|       LIVINGKITCHEN & P...|                     0|           0|                  0|
++-----------+-----------+---------+--------------+----------------+-------------------+-----------+--------------+--------------------+----------------+--------------------+--------------------+---------------------+----------------------+-------+--------------------+----------------+--------------+------------+------------------+--------+--------+-----+----------------------+-------+------+-------------------+-------------------+----------+--------+--------------+--------------------+--------------+------------------------+-----------------------+---------------------+--------+-------------+--------+----------------+---------------------+------------+---------------------------+----------------------+------------+-------------------+
+only showing top 20 rows
+
+find the partition for each itemid
+upload itemIdWithPartition06.txt file
+Running system command: hdfs dfs -rm hdfs:////npd/s_test2/itemidMapper/itemIdWithPartition06.txt
+Running system command: hdfs dfs -copyFromLocal src/main/python/dictionary/maps/itemIdWithPartition06.txt hdfs:////npd/s_test2/itemidMapper/
+0 and  and 
+Reading itemId meta data
+getting the last two columns
+creating a temptable
+Getting distinct partition names
+Performing the join operation
+total rdd results: 273876
+joined results Rdd size these items already have assigned partition: 271298
+total rdd results size after filter we need to distribute these items among different partition: 2578
+temporary distinct rdd size is: 1834
+after adding partitioner column rdd size: 2578
+total count after union of all data: 273876
+type cast the updated and added date column
+read the base dictionary
+Executing command:  select * from dqdictionaryhivedb.mainTemptableext
+base dictionary size 457755634
+new add size: 273876
+perform left anti join on poi_id to retrieve unique poi_id based records
+final_rdd size before left anti join 273876
+final base dict size after left anti join and union of all151406133
+delete the /npd/s_test2/finalResults path before writing it back
+writing down the unique snapshots retrieved
+Start writing back to hive table
+End of hive transfer
+Update lastfile read number
+Traceback (most recent call last):
+  File "/hdpdata/pysparkProject/dqMachine/src/main/python/main.py", line 78, in <module>
+    mainOb.executor()
+  File "/hdpdata/pysparkProject/dqMachine/src/main/python/main.py", line 66, in executor
+    mainOps()
+  File "/hdpdata/pysparkProject/dqMachine/src/main/python/dictionary/mainKnitter.py", line 92, in mainOps
+    upc_map, sku_map, model_map = startWorkingsnapshots(spark = gv.spark_context)
+  File "/hdpdata/pysparkProject/dqMachine/src/main/python/dictionary/duplicateDetector/processingUnit2.py", line 296, in startWorkingsnapshots
+    getLastfilenumber(rw = 1,file_number = last_file_num)
+  File "/hdpdata/pysparkProject/dqMachine/src/main/python/dictionary/duplicateDetector/processingUnit2.py", line 208, in getLastfilenumber
+    print "last file name: " + file_number
+TypeError: cannot concatenate 'str' and 'NoneType' objects
+print "last file name: " + str(file_number)

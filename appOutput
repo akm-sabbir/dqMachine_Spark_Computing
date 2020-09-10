@@ -1,0 +1,49 @@
+main function for this pyspark project is going to be initiated soon .....
+current working directory is :/hdpdata/pysparkProject/dqMachine
+Operating system name : Linux
+Machine Name : lpwhdqdnp01.npd.com
+operating system version : 3.10.0-693.5.2.el7.x86_64
+last access time #1 SMP Fri Oct 13 10:46:25 EDT 2017
+operating system architecture : x86_64
+mysql
+hivedb
+['dictionary_frontend', 'PACEDICTIONARY']
+['dqdictionaryhivedb']
+['REFS']
+['DICTIONARY_STATUS', 'POIID_DETAILS', 'TIMETRACKER']
+['uniodsposoutletwpacid_int', 'odsitemswp', 'odsposoutletitemswp']
+set([160, 161, 66, 70, 162, 138, 76, 77, 78, 174, 152, 179, 53, 55, 56, 57, 58, 59, 61])
+configuration class
+start loading data
+Usage: snapshotdetector number of days2
+53
+06-06-2018 04:10:16
+2018644 ['hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00060.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00058.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00057.bz2']
+20185254 ['hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00024.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00022.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00021.bz2']
+2018624 ['hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00052.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00050.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00049.bz2']
+20185304 ['hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00044.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00042.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00041.bz2']
+2018634 ['hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00056.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00054.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00053.bz2']
+201852214 ['hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00017.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00015.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00014.bz2']
+20185314 ['hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00048.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00046.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00045.bz2']
+20185294 ['hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00040.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00038.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00037.bz2']
+20185284 ['hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00036.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00034.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00033.bz2']
+201851911 ['hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00000.bz2']
+20186611 ['hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00059.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00055.bz2']
+2018664 ['hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00068.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00067.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00066.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00065.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00063.bz2']
+20185274 ['hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00032.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00030.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00029.bz2']
+201851815 ['hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00007.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00005.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00004.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00003.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00001.bz2']
+201852415 ['hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00019.bz2']
+2018654 ['hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00064.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00062.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00061.bz2']
+20185264 ['hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00028.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00026.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00025.bz2']
+201852015 ['hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00013.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00011.bz2', 'hdfs://lpwhdqnnp01.npd.com/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS/part-m-00010.bz2']
+start reading snapshots
+Traceback (most recent call last):
+  File "/hdpdata/pysparkProject/dqMachine/src/main/python/main.py", line 83, in <module>
+    mainOb.executor()
+  File "/hdpdata/pysparkProject/dqMachine/src/main/python/main.py", line 71, in executor
+    mainOps()
+  File "/hdpdata/pysparkProject/dqMachine/src/main/python/dictionary/mainKnitter.py", line 127, in mainOps
+    rddOutlet, baseRddoutlet = loadingData(data_path =  configOb.input_path[0], spark = gv.spark_context)
+  File "/hdpdata/pysparkProject/dqMachine/src/main/python/dictionary/writeBackModule/readAndload.py", line 23, in loadingData
+    totalsnapShots = sqlc.createDataFrame(spark.emptyRDD(),StructType([]))
+NameError: global name 'StructType' is not defined

@@ -1,0 +1,7 @@
+SET hive.execution.engine=tez;
+SET odsposoutletitem_input ='/npd/ODS/ODS_INPUTS_BZ2/ODS_POSOUTLETITEMS';
+--'/npd/s_test2/uniqueBasedictionary';
+--'/npd/ODS/ODS_INPUTS/ODS_POSOUTLETITEMS';
+drop table if exists dqdictionaryhivedb.maindictempTableext;
+create external table dqdictionaryhivedb.maindictempTableext(poi_id bigint,business_id int,posoutlet int,outletdivision int ,outletdepartment int,outletsubdepartment int,outletclass int,outletsubclass int,outletbrand string,outletitemnumber string,outletdescription string,outletbrandmatch string,outletitemnumbermatch string,outletdescriptionmatch string,sku int,manufacturercodetype string,manufacturercode bigint,zzzppmonthfrom int ,zzzppmonthto int, zzzppmonthlastused int,itemid bigint,itemtype string,price int,manufacturercodestatus int,loadid int,status int,added timestamp,updated timestamp,ppweekfrom int,ppweekto int,ppweeklastused int,matched_country_code int,previous_poiid int,include_data_ppmonthfrom int,include_data_ppweekfrom int,manufacturercodematch int,skumatch int,unitofmeasure int,packsize int,manufacturername string,manufacturernamematch string,privatelabel string,outletdescriptionsupplement string,total_confidence_score int, parent_poiid int,parent_poiid_status string) row format delimited fields terminated by '|' lines terminated by '\n' location ${hiveconf:odsposoutletitem_input};
+ALTER TABLE dqdictionaryhivedb.maindictempTableext SET SERDEPROPERTIES ("timestamp.formats"="yyyy-MM-dd'T'HH:mm:ss.SSSZ");

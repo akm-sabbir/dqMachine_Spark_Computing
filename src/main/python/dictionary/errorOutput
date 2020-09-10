@@ -1,0 +1,69 @@
+nohup: ignoring input
+SPARK_MAJOR_VERSION is set to 2, using Spark2
+17/10/05 10:14:40 INFO SparkContext: Running Spark version 2.1.1.2.6.2.0-205
+17/10/05 10:14:40 INFO SecurityManager: Changing view acls to: abdul.sabbir
+17/10/05 10:14:40 INFO SecurityManager: Changing modify acls to: abdul.sabbir
+17/10/05 10:14:40 INFO SecurityManager: Changing view acls groups to: 
+17/10/05 10:14:40 INFO SecurityManager: Changing modify acls groups to: 
+17/10/05 10:14:40 INFO SecurityManager: SecurityManager: authentication disabled; ui acls disabled; users  with view permissions: Set(abdul.sabbir); groups with view permissions: Set(); users  with modify permissions: Set(abdul.sabbir); groups with modify permissions: Set()
+17/10/05 10:14:40 INFO Utils: Successfully started service 'sparkDriver' on port 39287.
+17/10/05 10:14:40 INFO SparkEnv: Registering MapOutputTracker
+17/10/05 10:14:41 INFO SparkEnv: Registering BlockManagerMaster
+17/10/05 10:14:41 INFO BlockManagerMasterEndpoint: Using org.apache.spark.storage.DefaultTopologyMapper for getting topology information
+17/10/05 10:14:41 INFO BlockManagerMasterEndpoint: BlockManagerMasterEndpoint up
+17/10/05 10:14:41 INFO DiskBlockManager: Created local directory at /tmp/blockmgr-7da7fb95-5c52-4cb7-be3d-35b0a0bc365c
+17/10/05 10:14:41 INFO MemoryStore: MemoryStore started with capacity 366.3 MB
+17/10/05 10:14:41 INFO SparkEnv: Registering OutputCommitCoordinator
+17/10/05 10:14:41 INFO log: Logging initialized @2133ms
+17/10/05 10:14:41 INFO Server: jetty-9.2.z-SNAPSHOT
+17/10/05 10:14:41 INFO Server: Started @2210ms
+17/10/05 10:14:41 INFO ServerConnector: Started ServerConnector@8423e16{HTTP/1.1}{0.0.0.0:4040}
+17/10/05 10:14:41 INFO Utils: Successfully started service 'SparkUI' on port 4040.
+17/10/05 10:14:41 INFO ContextHandler: Started o.s.j.s.ServletContextHandler@2e0e6296{/jobs,null,AVAILABLE,@Spark}
+17/10/05 10:14:41 INFO ContextHandler: Started o.s.j.s.ServletContextHandler@274f2d1c{/jobs/json,null,AVAILABLE,@Spark}
+17/10/05 10:14:41 INFO ContextHandler: Started o.s.j.s.ServletContextHandler@6379d2fd{/jobs/job,null,AVAILABLE,@Spark}
+17/10/05 10:14:41 INFO ContextHandler: Started o.s.j.s.ServletContextHandler@24d81b5e{/jobs/job/json,null,AVAILABLE,@Spark}
+17/10/05 10:14:41 INFO ContextHandler: Started o.s.j.s.ServletContextHandler@254309e0{/stages,null,AVAILABLE,@Spark}
+17/10/05 10:14:41 INFO ContextHandler: Started o.s.j.s.ServletContextHandler@7c17ff5a{/stages/json,null,AVAILABLE,@Spark}
+17/10/05 10:14:41 INFO ContextHandler: Started o.s.j.s.ServletContextHandler@16b27898{/stages/stage,null,AVAILABLE,@Spark}
+17/10/05 10:14:41 INFO ContextHandler: Started o.s.j.s.ServletContextHandler@705290c7{/stages/stage/json,null,AVAILABLE,@Spark}
+17/10/05 10:14:41 INFO ContextHandler: Started o.s.j.s.ServletContextHandler@455ca505{/stages/pool,null,AVAILABLE,@Spark}
+17/10/05 10:14:41 INFO ContextHandler: Started o.s.j.s.ServletContextHandler@5e30bd0a{/stages/pool/json,null,AVAILABLE,@Spark}
+17/10/05 10:14:41 INFO ContextHandler: Started o.s.j.s.ServletContextHandler@49456682{/storage,null,AVAILABLE,@Spark}
+17/10/05 10:14:41 INFO ContextHandler: Started o.s.j.s.ServletContextHandler@2e4b0b3f{/storage/json,null,AVAILABLE,@Spark}
+17/10/05 10:14:41 INFO ContextHandler: Started o.s.j.s.ServletContextHandler@293d421d{/storage/rdd,null,AVAILABLE,@Spark}
+17/10/05 10:14:41 INFO ContextHandler: Started o.s.j.s.ServletContextHandler@6b26d687{/storage/rdd/json,null,AVAILABLE,@Spark}
+17/10/05 10:14:41 INFO ContextHandler: Started o.s.j.s.ServletContextHandler@11bb303e{/environment,null,AVAILABLE,@Spark}
+17/10/05 10:14:41 INFO ContextHandler: Started o.s.j.s.ServletContextHandler@401d0495{/environment/json,null,AVAILABLE,@Spark}
+17/10/05 10:14:41 INFO ContextHandler: Started o.s.j.s.ServletContextHandler@772bff65{/executors,null,AVAILABLE,@Spark}
+17/10/05 10:14:41 INFO ContextHandler: Started o.s.j.s.ServletContextHandler@51bcb891{/executors/json,null,AVAILABLE,@Spark}
+17/10/05 10:14:41 INFO ContextHandler: Started o.s.j.s.ServletContextHandler@ef969a6{/executors/threadDump,null,AVAILABLE,@Spark}
+17/10/05 10:14:41 INFO ContextHandler: Started o.s.j.s.ServletContextHandler@2a1cd055{/executors/threadDump/json,null,AVAILABLE,@Spark}
+17/10/05 10:14:41 INFO ContextHandler: Started o.s.j.s.ServletContextHandler@4217a59b{/static,null,AVAILABLE,@Spark}
+17/10/05 10:14:41 INFO ContextHandler: Started o.s.j.s.ServletContextHandler@15849b61{/,null,AVAILABLE,@Spark}
+17/10/05 10:14:41 INFO ContextHandler: Started o.s.j.s.ServletContextHandler@3b0eadbb{/api,null,AVAILABLE,@Spark}
+17/10/05 10:14:41 INFO ContextHandler: Started o.s.j.s.ServletContextHandler@599dfaa3{/jobs/job/kill,null,AVAILABLE,@Spark}
+17/10/05 10:14:41 INFO ContextHandler: Started o.s.j.s.ServletContextHandler@7ff0922e{/stages/stage/kill,null,AVAILABLE,@Spark}
+17/10/05 10:14:41 INFO SparkUI: Bound SparkUI to 0.0.0.0, and started at http://10.170.81.4:4040
+17/10/05 10:14:41 INFO SparkContext: Added file file:/home/abdul.sabbir/pysparkProject/pysparkProject/mainKnitter.py at file:/home/abdul.sabbir/pysparkProject/pysparkProject/mainKnitter.py with timestamp 1507212881556
+17/10/05 10:14:41 INFO Utils: Copying /home/abdul.sabbir/pysparkProject/pysparkProject/mainKnitter.py to /tmp/spark-a83ef026-8687-4073-a90f-e27b244fa518/userFiles-0cb10dac-e69f-4017-bc63-060a8129f097/mainKnitter.py
+17/10/05 10:14:41 INFO Executor: Starting executor ID driver on host localhost
+17/10/05 10:14:41 INFO Utils: Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 39187.
+17/10/05 10:14:41 INFO NettyBlockTransferService: Server created on 10.170.81.4:39187
+17/10/05 10:14:41 INFO BlockManager: Using org.apache.spark.storage.RandomBlockReplicationPolicy for block replication policy
+17/10/05 10:14:41 INFO BlockManagerMaster: Registering BlockManager BlockManagerId(driver, 10.170.81.4, 39187, None)
+17/10/05 10:14:41 INFO BlockManagerMasterEndpoint: Registering block manager 10.170.81.4:39187 with 366.3 MB RAM, BlockManagerId(driver, 10.170.81.4, 39187, None)
+17/10/05 10:14:41 INFO BlockManagerMaster: Registered BlockManager BlockManagerId(driver, 10.170.81.4, 39187, None)
+17/10/05 10:14:41 INFO BlockManager: Initialized BlockManager: BlockManagerId(driver, 10.170.81.4, 39187, None)
+17/10/05 10:14:41 INFO ContextHandler: Started o.s.j.s.ServletContextHandler@428d00ea{/metrics/json,null,AVAILABLE,@Spark}
+17/10/05 10:14:42 INFO EventLoggingListener: Logging events to hdfs:///spark2-history/local-1507212881595
+17/10/05 11:31:54 ERROR Utils: Uncaught exception in thread stdout writer for python
+java.net.SocketException: Socket is closed
+	at java.net.Socket.shutdownOutput(Socket.java:1551)
+	at org.apache.spark.api.python.PythonRunner$WriterThread$$anonfun$run$3$$anonfun$apply$3.apply$mcV$sp(PythonRDD.scala:336)
+	at org.apache.spark.api.python.PythonRunner$WriterThread$$anonfun$run$3$$anonfun$apply$3.apply(PythonRDD.scala:336)
+	at org.apache.spark.api.python.PythonRunner$WriterThread$$anonfun$run$3$$anonfun$apply$3.apply(PythonRDD.scala:336)
+	at org.apache.spark.util.Utils$.tryLog(Utils.scala:1976)
+	at org.apache.spark.api.python.PythonRunner$WriterThread$$anonfun$run$3.apply(PythonRDD.scala:336)
+	at org.apache.spark.util.Utils$.logUncaughtExceptions(Utils.scala:1963)
+	at org.apache.spark.api.python.PythonRunner$WriterThread.run(PythonRDD.scala:269)
